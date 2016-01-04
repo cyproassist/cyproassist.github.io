@@ -73,6 +73,7 @@
 				width: 0;
 				background: $black;
 			}
+			&.active:after,
 			&:active:after,
 			&:hover:after {
 				width: 100%;
@@ -232,7 +233,7 @@
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	text-align: center;
-	color: $white;
+//	color: $white;
 	@include media($large) {
 		background-size: cover;
 	}

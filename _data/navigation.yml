@@ -1,6 +1,13 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Projektbeschreibung
+  url: /description/
+  excerpt: "Ziele und Inhalte des CyProAssist-Projekts."
+
+- title: Konsortium
+  url: /consortium/
+  excerpt: "Partner im Projektkonsortium."
+
+- title: Impressum
+  url: /about/
+  

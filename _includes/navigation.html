@@ -3,9 +3,17 @@
 	{% for link in site.data.navigation %}
     {% if link.url contains 'http' %}
         {% assign domain = '' %}
-        {% else %}
+    {% else %}
         {% assign domain = site.url %}
     {% endif %}
-    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+    {% capture itemurl %}{{ domain }}{{ link.url | remove_first: "index.html" }}{% endcapture %}
+    {% capture pageurl %}{{ page.url | remove_first: "index.html" }}{% endcapture %}
+
+    {% if itemurl == pageurl %}
+        {% assign class = 'active' %}
+    {% else %}
+        {% assign class = '' %}
+    {% endif %}
+    <li><a class="{{ class }}" href="{{ itemurl }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
   {% endfor %}
 </ul>
