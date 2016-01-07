@@ -1,3 +1,10 @@
 .company-logo {
-    height: 60px;
+    height: 60px;   
+}
+
+.company-logo + * {
+    display: block;
+    margin-left: 2em;
+    margin-top: 0.5em;
+    color: gray;
 }
