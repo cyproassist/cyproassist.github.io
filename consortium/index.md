@@ -35,7 +35,15 @@ Mit rund 430 Mitarbeitern erwirtschaftete die Gruppe 2014 einen Gesamtumsatz von
 
 *Ansprechpartner: Arne Schwerdtfeger (arne.schwerdtfeger@ces.eu)*
 
-![CPT]({{ site.url }}/images/logos/CPT.jpg){: .company-logo } **CPT Präzisionstechnik GmbH (CPT)**
+![CPT]({{ site.url }}/images/logos/CPT.jpg){: .company-logo } **CPT Präzisionstechnik GmbH (CPT)**
+
+Die CPT Präzisionstechnik GmbH ist ein modernes Unternehmen mit Firmensitz in Chemnitz, das 1992 gegründet wurde. Kernkompetenz sind CNC und anspruchsvolle Dreh- und Frästeile vom Muster bis zur Serienfertigung in kleinsten Abmessungen. Zu den Kunden des nach DIN EN ISO 9001:2008 zertifizierten Unternehmens gehören nationale und internationale Firmen z. B. aus dem Hydraulikbereich, der Medizintechnik, der Messgerätefertigung und der Sensortechnik. Von Prototypen bis zur Serie werden höchst anspruchsvolle und komplexe Teile aus den verschiedensten, z. T. schwer zerspanbaren Werkstoffen wie Titan, Stahl, Edelstahl, Aluminium, Kupfer, Messing und Kunststoffen gefertigt. 
+
+Heute beschäftigt das Unternehmen 65 Mitarbeiter. CPT ist Preisträger im bundesweiten Wettbewerb „Grünes Haus 2012 – Industrie und Gewerbe“. Prämiert wurde es für sein energetisches Gesamtkonzept, das sowohl Prozesswärme als auch Licht, Heizung und alternative Energieversorgung berücksichtigt und daraus einen Energieüberschuss von bis zu 1,1 Mio. kWh pro Jahr erwirtschaftet. Aktuell laufen Vorbereitungen für Investitionen in modernste CNC-Bearbeitungszentren. Zwei Bearbeitungszentren werden gegenwärtig in Betrieb genommen, ein weiteres wird im Dezember 2015 integriert. Der Schwerpunkt dabei liegt darin, eine Kommunikationsplattform zu schaffen, die in der Lage ist, vorhandene Anlagen und Systeme interaktiv zu vernetzen. Dabei stehen die MDE- und der ERP-Systematik (Produktionsleitstand) im Fokus der Investitionen.
+
+*Webseite: <http://www.cptcnc.de>*
+
+*Ansprechpartner: Michael Lammich (lammich@cptcnc.de)*
 
 ### Planer und Hersteller von Produktionsanlagen
 
@@ -45,12 +53,11 @@ Mit rund 430 Mitarbeitern erwirtschaftete die Gruppe 2014 einen Gesamtumsatz von
 
 Die SITEC Industrietechnologie GmbH mit Sitz in Chemnitz hat sich in ihrem nunmehr 25-jährigen Bestehen als Hersteller innovativer Sonderanlagen für die Montage, die Laserbearbeitung sowie die Elektrochemische Metallbearbeitung etabliert. Zu den Kunden gehören neben der Automobilindustrie auch die Elektrotechnik/ Elektronik, die Medizintechnik, die Optik und Feinmechanik, die Textilindustrie sowie der Industriezweig der alternativen Energien. Eine besondere Expertise des Unternehmens ist die Realisierung von hybriden Montagesystemen, in denen neben verketteten Modulen zur teil- und vollautomatisierten Montage auch Module zur Laserbearbeitung integriert sind. Dies stellt auf dem deutschen Anbietermarkt ein Alleinstellungsmerkmal dar. Eng mit der Realisierung der Anlagen verknüpft, ist die Entwicklung von kundenindividuellen Steuerungs- und Automatisierungslösungen von der Konzeption über die Umsetzung bis zum Service, so dass SITEC auch diesbezüglich eine umfangreiche Expertise vorweisen kann. Mit den eigenentwickelten mobilen Lösungen VarioTab  und VarioView ATC hat SITEC zudem bereits relativ weit entwickelte Industrie 4.0-Lösungen im Angebot. Eine große Herausforderung stellt nach wie vor die gezielte Auswertung der an den Anlagen generierten Daten dar. Insbesondere Prozessdaten, d.h. Daten, die den technologischen Prozessablauf, die dazugehörigen Prozessparameter sowie die verwendeten Einzelteile dokumentieren und bisher ausschließlich zum Zweck der Traceability gespeichert werden, bieten enormes Potenzial zur Generierung von Informationen über den Anlagenzustand und eine beispielsweise darauf basierende Anlageninstandhaltung. Eines der wesentlichen Projektziele der SITEC besteht deshalb in der Entwicklung von Auswertealgorithmen zur frühzeitigen Erkennung von Veränderungen an den Anlagenkomponenten bzw. an den Materialeigenschaften der Produktbestandteile sowie zur gezielten Identifikation und Interpretation des Überschreitens definierter Parametergrenzen.
 
-*Webseite: <http://www.sitec-technology.de/>*
+*Webseite: <http://www.sitec-technology.de>*
 
 *Ansprechpartner: Daniela Pfab (daniela.pfab@sitec-technology.de)*
 
 ![HREC]({{ site.url }}/images/logos/HREC.png){: .company-logo } **Hörmann Rawema Engineering & Consulting GmbH (HREC)**
-
 
 
 ### Softwareentwickler/Systemintegratoren
@@ -69,7 +76,7 @@ Alles begann 1990 in Zwickau mit der Vision der computerintegrierten Produktion.
 
 ### FuE-Dienstleister/Begleitforschungsinstitute
 
-![IWU]({{ site.url }}/images/logos/IWU.png){: .company-logo } <span>**Fraunhofer IWU**</span>
+![IWU]({{ site.url }}/images/logos/IWU.png){: .company-logo } **Fraunhofer IWU**
 
 Forschung für die Zukunft: So lautet das Credo des Fraunhofer-Instituts für Werkzeugmaschinen und Umformtechnik IWU. Seit mehr als 20 Jahren betreibt das Institut erfolgreich anwendungsorientierte Forschung und Entwicklung auf dem Gebiet der Produktionstechnik für den Automobil- und Maschinenbau. Mit mehr als 590 hochqualifizierten Mitarbeiterinnen und Mitarbeitern gehört es heute zu den bedeutendsten Forschungs- und Entwicklungseinrichtungen auf dem Gebiet der Produktionswissenschaften. Wichtiger Bestandteil der praxisorientierten Forschungsarbeit: die Zusammenarbeit mit Partnern aus Industrie, Wissenschaft und Forschung auf nationaler und auch internationaler Ebene. Als ein Leitinstitut für ressourceneffiziente Produktion innerhalb der Fraunhofer-Gesellschaft erarbeitet das Fraunhofer IWU Lösungen zur Verbesserung der Ressourceneffizienz und bereitet diese für die Umsetzung in der Praxis vor. Das Hauptaugenmerk liegt auf der Entwicklung intelligenter Produktionsanlagen zur Herstellung von Karosserie- sowie Antriebsstrangkomponenten und der Optimierung der damit verbundenen umformenden und spanenden Fertigungsprozesse. Im Kontext des Fraunhofer-Leitprojekts ‚E3-Produktion‘ forscht das Institut aktiv im Themenfeld Industrie 4.0. Im Fokus stehen Methoden und Technologien zur informationstechnischen Anbindung von Maschinen und Anlagen. Das Ziel ist eine effiziente und emissionsneutrale Produktion, in welche der Mensch als zentraler Wissens- und Innovationsträger integriert ist. Auch ergonomische Fragestellungen spielen hierbei eine Rolle.
 
