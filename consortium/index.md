@@ -35,7 +35,7 @@ Mit rund 430 Mitarbeitern erwirtschaftete die Gruppe 2014 einen Gesamtumsatz von
 
 *Ansprechpartner: Arne Schwerdtfeger (arne.schwerdtfeger@ces.eu)*
 
-![CPT]({{ site.url }}/images/logos/CPT.jpg){: .company-logo } **CPT Präzisionstechnik GmbH (CPT)**
+![CPT]({{ site.url }}/images/logos/CPT.jpg){: .company-logo } **CPT Präzisionstechnik GmbH (CPT)**
 
 Die CPT Präzisionstechnik GmbH ist ein modernes Unternehmen mit Firmensitz in Chemnitz, das 1992 gegründet wurde. Kernkompetenz sind CNC und anspruchsvolle Dreh- und Frästeile vom Muster bis zur Serienfertigung in kleinsten Abmessungen. Zu den Kunden des nach DIN EN ISO 9001:2008 zertifizierten Unternehmens gehören nationale und internationale Firmen z. B. aus dem Hydraulikbereich, der Medizintechnik, der Messgerätefertigung und der Sensortechnik. Von Prototypen bis zur Serie werden höchst anspruchsvolle und komplexe Teile aus den verschiedensten, z. T. schwer zerspanbaren Werkstoffen wie Titan, Stahl, Edelstahl, Aluminium, Kupfer, Messing und Kunststoffen gefertigt. 
 
@@ -59,6 +59,14 @@ Die SITEC Industrietechnologie GmbH mit Sitz in Chemnitz hat sich in ihrem nunme
 
 ![HREC]({{ site.url }}/images/logos/HREC.png){: .company-logo } **Hörmann Rawema Engineering & Consulting GmbH (HREC)**
 
+Die **Hörmann Rawema Engineering & Consulting GmbH** ist als innovatives, herstellerneutrales Engineering-Unternehmen auf die Erbringung technischer Fachplanungen im industriellen Sektor mit Fokus auf Produktionstechnologien und Fabrikplanung spezialisiert. Die Ingenieurdienstleistungen erfassen dabei den kompletten Lebenszyklus der Fabrik, beginnend mit der Verantwortung als Generalplaner, über das Engineering einzelner Produktionsbereiche und Anlagen, bis hin zum Reengineering und daraus resultierenden Verlagerungsprojekten.
+Durch den Einsatz von Hard- und Software zur Fabrikplanung, wie z. B. dem 3D Laserscanning, Materialflusssimulationen und virtuellen Inbetriebnahmen sowie den Methoden des Projektmanagements, wird ein effizienter Planungs-/ Realisierungsprozess sichergestellt.
+Zuhause in Chemnitz, ist die Hörmann Rawema Engineering & Consulting GmbH weltweit in über 25 Ländern aktiv. Dabei kann sie auf zahlreiche erfolgreiche Referenzen aus über 50 Jahren Projekterfahrung zurückblicken.
+An den rasanten Veränderungen in der Industrie, die sich mit dem Begriff Industrie 4.0 zusammenfassen lassen, ist die Hörmann Rawema Engineering & Consulting GmbH beteiligt, indem Forschungsarbeiten zur Integration von cyberphysischen Produktionssystemen in der Fabrik- und Ausrüstungsplanung betrieben werden. Schwerpunkt dabei sind Untersuchungen im Bereich des Condition Monitoring.
+
+*Webseite: <http://www.hoermann-rawema.de>*
+
+*Ansprechpartner: Dr. Bernd Streicher (bernd.streicher@hoermann-rawema.de)*
 
 ### Softwareentwickler/Systemintegratoren
 
@@ -74,6 +82,16 @@ Alles begann 1990 in Zwickau mit der Vision der computerintegrierten Produktion.
 
 ![TTI]({{ site.url }}/images/logos/TTI.png){: .company-logo } **TTI GmbH – TGU Interaktion.biz (TTI)**
 
+Die **TTI GmbH** widmet sich maßgeblich dem Technologietransfer, d.h. der Invention, dem Transfer von Inventionen in die Industrie als Innovationstreiber, der Beratung und der Entwicklung im Bereich neuer Technologien. Mit ihrer Unternehmung TGU Interaktion.biz kooperiert die TTI GmbH eng mit der Technischen Universität Dresden, der Universität Stuttgart sowie mit weiteren Partnern in Forschung und Wirtschaft. Durch diese Nähe zur Forschung bringt sie Erkenntnisse auf dem aktuellen Stand ebenso mit wie individuelle Entwicklungsleistungen. Sie integriert Universitäts- und Industrieleistungen mit dem Fokus auf Entwicklung, Transfer und gemeinsamen Projektergebnissen.
+
+Neben der Universität Stuttgart und der Technischen Universität Dresden kooperiert die **TGU Interaktion.biz** auch eng mit weiteren Experten im Bereich Softwaretechnologie, Interaktion und Usability. Mit der umfangreichen Erfahrung im Bereich allgegenwärtiger und interaktiver Systeme entwickelt und verbessert die TGU Interaktion.biz so Interaktionstechniken in Zusammenarbeit mit ihren Kunden. Dazu bietet sie eine breite Unterstützung bei der Konzeption bis hin zur eigentlichen Umsetzung interaktiver, mobiler und multimodaler Systeme, vor allem in den Bereichen der Fertigungstechnik, aber auch im Bereich öffentliche Systeme. Die langjährige Erfahrung der Mitarbeiter im Bereich von industriellen, nationalen und europäischen Forschungsprojekten ermöglicht ein schnelles und tiefes Verständnis der speziellen Anforderungen.
+
+Darüber hinaus entwickelt die TGU Interaktion.biz auch eigene Technologien im Bereich interaktive, intelligente und mobile Systeme. Beispiele hierzu sind die Integration von Augmented Reality-Technologien in industrielle Systeme oder die Verknüpfung von Technologien aus dem Mobile Computing mit sogenannten Public Displays. 
+
+*Webseite: <http://www.interaktion.biz/>*
+
+*Ansprechpartner: Susann Struwe (Susann.Struwe@interaktion.biz)*
+
 ### FuE-Dienstleister/Begleitforschungsinstitute
 
 ![IWU]({{ site.url }}/images/logos/IWU.png){: .company-logo } **Fraunhofer IWU**
@@ -87,3 +105,14 @@ Forschung für die Zukunft: So lautet das Credo des Fraunhofer-Instituts für We
 ![IUMS]({{ site.url }}/images/logos/IUMS.png){: .company-logo } **Institut für ubiquitäre Mobilitätssysteme, Hochschule Karlsruhe (IUMS)**
 
 ![ATB]({{ site.url }}/images/logos/ATB.gif){: .company-logo } **ATB Arbeit, Technik und Bildung gGmbH (ATB)**
+
+Wir bauen Brücken zwischen Wissenschaft und Praxis in den Bereichen Personal- und Kompetenzentwicklung, Organisations- und Prozessgestaltung sowie Dienstleistungsmanagement. Seit vielen Jahren begleitet die ATB im Rahmen zahlreicher Projekte, Studien und Initiativen die Wandlungsprozesse regionaler bzw. überregionaler betrieblicher Innovations- und Weiterbildungsaktivitäten und bestimmt diese unter konsequenter Kopplung an die Unternehmen und den Markt maßgeblich mit.
+Gegründet wurde die ATB Arbeit, Technik und Bildung gGmbH (ATB) 1991 als privates arbeitswissenschaftliches Forschungs- und Beratungsinstitut. Als „Brücke zwischen Wissenschaft und Praxis“ bearbeitet das ATB-Team mit acht Mitarbeitenden beteiligungsorientierte Beratungsprojekte, lösungsorientierte Forschungs- und Entwicklungsvorhaben sowie Dienstleistungsaufträge auf Grundlage von Bekanntmachungen und Ausschreibungen von Bundes-/Landesministerien und Projektträgern. 
+
+Die ATB kann auf eine langjährige Forschungs- und Beratungstätigkeit auf dem Gebiet der partizipativen Organisations- und Personalentwicklung zurückblicken, insbesondere in Bezug auf arbeits- bzw. prozessbezogene Lernformen. Hervorzuheben sind die mehrjährigen Erfahrungen bei der Entwicklung iuk-gestützter arbeits- und prozessbezogener Weiterbildungsformen, die Beteiligung an der Entwicklung und Erprobung von Lernplanungs- und Steuerungssystemen und adaptiven Web-basiertes Informations- und Lernsystemen. Die aus Forschungs- und Beratungstätigkeit erarbeiteten Kompetenzen und Erfahrungen für die Gestaltung von Mensch-Maschine-Schnittstellen werden stetig praxisorientiert weiterentwickelt.
+
+Die ATB Arbeit, Technik und Bildung gGmbH versteht sich als arbeitswissenschaftlich orientiertes Dienstleistungsunternehmen, dessen Tätigkeit geprägt ist durch angewandte Forschung sowie Beratung und Weiterbildung für Kunden aus Industrie, Dienstleistung und Verwaltung.
+
+*Webseite: <http://atb-chemnitz.de>*
+
+*Ansprechpartner: Dr. Michael Uhlmann (uhlmann@atb-chemnitz.de)*

@@ -21,13 +21,13 @@ $border-radius               	: 3px;
    Color variables
    ========================================================================== */
 
-$white                        : #fff;
-$black                        : #000;
+$white                        	: #fff;
+$black                        	: #000;
 
 $body-color                  	: #ebebeb;
 
 $text-color                  	: #313130;
-$caption-color                : mix($white, $text-color, 25%);
+$caption-color                	: mix($white, $text-color, 25%);
 
 $base-color                  	: #343434;
 $comp-color                  	: complement($base-color);
@@ -80,15 +80,15 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	 : $black;
-$sliding-menu-background 		   : $black;
-$sliding-menu-color 	 		     : $white;
-$sliding-menu-background-hover : $black;
-$sliding-menu-color-hover	 	   : $white;
-$sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
-$button-size		         	     : 30px;
-$transition						         : 0.3s; // increase this to see the transformations in slow-motion
-$sliding-menu-animation        : all 500ms cubic-bezier(.86,.01,.77,.78);
+$sliding-menu-border-color	: #8EB4E3;
+$sliding-menu-background   	: #8EB4E3;
+$sliding-menu-color 	 	: $white;
+$sliding-menu-background-hover 	: $sliding-menu-background;
+$sliding-menu-color-hover	: $white;
+$sliding-menu-border   		: 1px solid $sliding-menu-border-color;
+$button-size		        : 30px;
+$transition			: 0.3s; // increase this to see the transformations in slow-motion
+$sliding-menu-animation		: all 300ms cubic-bezier(.86,.01,.77,.78);
 
 /*
    Badge variables

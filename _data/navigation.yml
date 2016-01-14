@@ -1,5 +1,8 @@
 # Site navigation links
 
+- title: News
+  url: /articles/
+
 - title: Projektbeschreibung
   url: /description/
   excerpt: "Ziele und Inhalte des CyProAssist-Projekts."

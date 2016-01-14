@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: CyProAssist
+title: "CyProAssist"
 description: "Fertigungsassistenzsystem unter Verwendung sozio-cyber-physischer Produktionssysteme"
 logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+teaser: "teaser.png"
 locale: de
 url: 
 
