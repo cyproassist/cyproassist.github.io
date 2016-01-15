@@ -104,6 +104,12 @@ Forschung für die Zukunft: So lautet das Credo des Fraunhofer-Instituts für We
 
 ![IUMS]({{ site.url }}/images/logos/IUMS.png){: .company-logo } **Institut für ubiquitäre Mobilitätssysteme, Hochschule Karlsruhe (IUMS)**
 
+Seit Mai 2015 ist Prof. Dr.-Ing Thomas Schlegel Inhaber der init-Stiftungsprofessur „Öffentlicher Personenverkehr“ an der Hochschule Karlsruhe – Technik und Wirtschaft. Zuvor leitete er die Juniorprofessur Software Engineering Ubiquitärer Systeme an der Fakultät für Informatik der Technischen Universität Dresden. 
+
+Das Institut hat seine Forschungsschwerpunkte im Schnittfeld von allgegenwärtigen, verteilten Systemen (Ubiquitous Computing), Mensch-Computer Interaktion und Gebrauchstauglichkeit (Usability) ubiquitärer Systeme, der Modellierung komplexer Systeme sowie Prozessen für adaptive Systeme. Diese Themenbereiche werden im Anwendungsfeld der ubiquitären Mobilitätssysteme betrachtet. 
+
+*Ansprechpartner: Prof. Dr.-Ing. Thomas Schlegel (thomas.schlegel@hs-karlsruhe.de)*
+
 ![ATB]({{ site.url }}/images/logos/ATB.gif){: .company-logo } **ATB Arbeit, Technik und Bildung gGmbH (ATB)**
 
 Wir bauen Brücken zwischen Wissenschaft und Praxis in den Bereichen Personal- und Kompetenzentwicklung, Organisations- und Prozessgestaltung sowie Dienstleistungsmanagement. Seit vielen Jahren begleitet die ATB im Rahmen zahlreicher Projekte, Studien und Initiativen die Wandlungsprozesse regionaler bzw. überregionaler betrieblicher Innovations- und Weiterbildungsaktivitäten und bestimmt diese unter konsequenter Kopplung an die Unternehmen und den Markt maßgeblich mit.
