@@ -29,7 +29,7 @@ E-Mail: info(at)zv.fraunhofer.de
 </pre>
 
 <hr>
-##### Verantwortliche Redakteur
+##### Verantwortlicher Redakteur
 <pre style="font-size: inherit; font-family: inherit">
 Ken Wenzel
 ken.wenzel(at)iwu.fraunhofer.de

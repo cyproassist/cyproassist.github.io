@@ -33,7 +33,7 @@ Mit rund 430 Mitarbeitern erwirtschaftete die Gruppe 2014 einen Gesamtumsatz von
 
 *Webseite: <http://www.ces.eu>*
 
-*Ansprechpartner: Arne Schwerdtfeger (arne.schwerdtfeger@ces.eu)*
+*Ansprechpartner: Arne Schwerdtfeger (arne.schwerdtfeger(at)ces.eu)*
 
 ![CPT]({{ site.url }}/images/logos/CPT.jpg){: .company-logo } **CPT Präzisionstechnik GmbH (CPT)**
 
@@ -43,7 +43,7 @@ Heute beschäftigt das Unternehmen 65 Mitarbeiter. CPT ist Preisträger im bunde
 
 *Webseite: <http://www.cptcnc.de>*
 
-*Ansprechpartner: Michael Lammich (lammich@cptcnc.de)*
+*Ansprechpartner: Michael Lammich (lammich(at)cptcnc.de)*
 
 ### Planer und Hersteller von Produktionsanlagen
 
@@ -55,7 +55,7 @@ Die SITEC Industrietechnologie GmbH mit Sitz in Chemnitz hat sich in ihrem nunme
 
 *Webseite: <http://www.sitec-technology.de>*
 
-*Ansprechpartner: Daniela Pfab (daniela.pfab@sitec-technology.de)*
+*Ansprechpartner: Daniela Pfab (daniela.pfab(at)sitec-technology.de)*
 
 ![HREC]({{ site.url }}/images/logos/HREC.png){: .company-logo } **Hörmann Rawema Engineering & Consulting GmbH (HREC)**
 
@@ -66,7 +66,7 @@ An den rasanten Veränderungen in der Industrie, die sich mit dem Begriff Indust
 
 *Webseite: <http://www.hoermann-rawema.de>*
 
-*Ansprechpartner: Dr. Bernd Streicher (bernd.streicher@hoermann-rawema.de)*
+*Ansprechpartner: Dr. Bernd Streicher (bernd.streicher(at)hoermann-rawema.de)*
 
 ### Softwareentwickler/Systemintegratoren
 
@@ -76,7 +76,7 @@ Alles begann 1990 in Zwickau mit der Vision der computerintegrierten Produktion.
 
 *Webseite: <http://www.nupis.de>*
 
-*Ansprechpartner: Björn Schuster (bjoern.schuster@nupis.de)*
+*Ansprechpartner: Björn Schuster (bjoern.schuster(at)nupis.de)*
 
 ![n3]({{ site.url }}/images/logos/n3.png){: .company-logo } **n³ data & software science GmbH (n3)**
 
@@ -90,7 +90,7 @@ Darüber hinaus entwickelt die TGU Interaktion.biz auch eigene Technologien im B
 
 *Webseite: <http://www.interaktion.biz/>*
 
-*Ansprechpartner: Susann Struwe (Susann.Struwe@interaktion.biz)*
+*Ansprechpartner: Susann Struwe (Susann.Struwe(at)interaktion.biz)*
 
 ### FuE-Dienstleister/Begleitforschungsinstitute
 
@@ -100,7 +100,7 @@ Forschung für die Zukunft: So lautet das Credo des Fraunhofer-Instituts für We
 
 *Webseite: <http://www.iwu.fraunhofer.de>*
 
-*Ansprechpartner: Ken Wenzel (ken.wenzel@iwu.fraunhofer.de)*
+*Ansprechpartner: Ken Wenzel (ken.wenzel(at)iwu.fraunhofer.de)*
 
 ![IUMS]({{ site.url }}/images/logos/IUMS.png){: .company-logo } **Institut für ubiquitäre Mobilitätssysteme, Hochschule Karlsruhe (IUMS)**
 
@@ -108,7 +108,7 @@ Seit Mai 2015 ist Prof. Dr.-Ing Thomas Schlegel Inhaber der init-Stiftungsprofes
 
 Das Institut hat seine Forschungsschwerpunkte im Schnittfeld von allgegenwärtigen, verteilten Systemen (Ubiquitous Computing), Mensch-Computer Interaktion und Gebrauchstauglichkeit (Usability) ubiquitärer Systeme, der Modellierung komplexer Systeme sowie Prozessen für adaptive Systeme. Diese Themenbereiche werden im Anwendungsfeld der ubiquitären Mobilitätssysteme betrachtet. 
 
-*Ansprechpartner: Prof. Dr.-Ing. Thomas Schlegel (thomas.schlegel@hs-karlsruhe.de)*
+*Ansprechpartner: Prof. Dr.-Ing. Thomas Schlegel (thomas.schlegel(at)hs-karlsruhe.de)*
 
 ![ATB]({{ site.url }}/images/logos/ATB.gif){: .company-logo } **ATB Arbeit, Technik und Bildung gGmbH (ATB)**
 
@@ -121,4 +121,4 @@ Die ATB Arbeit, Technik und Bildung gGmbH versteht sich als arbeitswissenschaftl
 
 *Webseite: <http://atb-chemnitz.de>*
 
-*Ansprechpartner: Dr. Michael Uhlmann (uhlmann@atb-chemnitz.de)*
+*Ansprechpartner: Dr. Michael Uhlmann (uhlmann(at)atb-chemnitz.de)*

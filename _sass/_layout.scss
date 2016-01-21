@@ -317,10 +317,14 @@
 		border-radius: $border-radius;
 	}
 }
-.author-content {
-	word-wrap: break-word;
+
+.author-image + .author-content {
 	padding-left: 100px; //avatar width + 20px padding
 	min-height: 80px; //mirrors avatar height
+}
+
+.author-content {
+	word-wrap: break-word;	
 }
 .author-name {
 	@include font-size(20,no);
