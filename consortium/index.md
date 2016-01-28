@@ -100,7 +100,7 @@ Forschung für die Zukunft: So lautet das Credo des Fraunhofer-Instituts für We
 
 *Webseite: <http://www.iwu.fraunhofer.de>*
 
-*Ansprechpartner: Ken Wenzel (ken.wenzel(at)iwu.fraunhofer.de)*
+*Ansprechpartner: Ken Wenzel (ken.wenzel(at)iwu.fraunhofer.de) und Dr. Tino Langer (tino.langer(at)iwu.fraunhofer.de)*
 
 ![IUMS]({{ site.url }}/images/logos/IUMS.png){: .company-logo } **Institut für ubiquitäre Mobilitätssysteme, Hochschule Karlsruhe (IUMS)**
 
