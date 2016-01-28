@@ -11,7 +11,8 @@
 	padding: 8px 20px;
 	@include font-size(14);
 	font-family: $alt-font;
-	background-color: $primary-color;
+	/*background-color: $primary-color;*/
+	background-color: #a1d8a4;
 	color: $white;
 	text-decoration: none;
 	border: 0 !important;
@@ -33,7 +34,7 @@
 
 .btn-inverse {
 	@extend .btn;
-	background-color: $white;
+	background-color: $white ;
 	color: $text-color;
 	&:visited,
 	&:active {

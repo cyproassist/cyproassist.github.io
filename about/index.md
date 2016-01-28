@@ -28,13 +28,16 @@ Internet: www.fraunhofer.de
 E-Mail: info(at)zv.fraunhofer.de
 </pre>
 
-<hr>
-##### Verantwortlicher Redakteur
+
+#### Verantwortlicher Redakteur
+
 <pre style="font-size: inherit; font-family: inherit">
 Ken Wenzel
 ken.wenzel(at)iwu.fraunhofer.de
 </pre>
-<hr>
+
+
+<br>
 
 <pre style="font-size: inherit; font-family: inherit">
 Umsatzsteuer-Identifikationsnummer gemäß § 27 a
@@ -48,14 +51,14 @@ Eingetragener Verein
 Register-Nr. VR 4461
 </pre>
 
-##### Vorstand
+#### Vorstand
 <pre style="font-size: inherit; font-family: inherit; white-space: pre-wrap">
 Prof. Dr.-Ing. Reimund Neugebauer, Präsident, Unternehmenspolitik, Technologiemarketing und Geschäftsmodelle
 Prof. Dr. Alexander Kurz, Personal, Recht und Verwertung
 Prof. (Univ. Stellenbosch) Dr. Alfred Gossner, Finanzen, Controlling (inkl. Betriebswirtschaft, Einkauf, Liegenschaften) und IT
 </pre>
 
-##### Nutzungsrechte
+#### Nutzungsrechte
 
 <pre style="font-size: inherit; font-family: inherit; white-space: pre-wrap">
 Copyright © by
@@ -71,7 +74,7 @@ Ein Download oder Ausdruck ist darüber hinaus lediglich zum Zweck der Berichter
 Grafische Veränderungen an Bildmotiven - außer zum Freistellen des Hauptmotivs - sind nicht gestattet. Es ist stets die Quellenangabe und Übersendung von zwei kostenlosen Belegexemplaren an die oben genannte Adresse erforderlich. Die Verwendung ist honorarfrei.
 </pre>
 
-##### Haftungshinweis
+#### Haftungshinweis
 
 <pre style="font-size: inherit; font-family: inherit; white-space: pre-wrap">
 Wir übernehmen keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.

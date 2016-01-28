@@ -6,8 +6,10 @@
    Typography variables
    ========================================================================== */
 
-$base-font                   	: Georgia,Times,"Times New Roman",serif;
-$heading-font                	: "Helvetica Neue","Segoe UI",Arial,sans-serif;
+/*$base-font                   	: Georgia,Times,"Times New Roman",serif;*/
+$base-font  					: "Segoe UI",Arial,sans-serif;
+/*$heading-font                	: "Helvetica Neue","Segoe UI",Arial,sans-serif;*/
+$heading-font                	: "Nunito",sans-serif;
 $caption-font                	: $base-font;
 $code-font                   	: monospace;
 $alt-font                    	: $heading-font;
@@ -23,16 +25,26 @@ $border-radius               	: 3px;
 
 $white                        	: #fff;
 $black                        	: #000;
+$green							: #bce292;
+$green2							: #aed285;
+$green3							: #a1c577;
+$orange							: #f79f57;
+$grey							: #999;
+$darkgrey						: #444;
+$lightgrey						: #E4E4E4;
+$body_color						: #FCFCFC;
 
 $body-color                  	: #ebebeb;
 
 $text-color                  	: #313130;
+$text-color2                  	: #fff;
 $caption-color                	: mix($white, $text-color, 25%);
 
 $base-color                  	: #343434;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
-$link-color                  	: #222;
+$border-color2                	: #444;
+$link-color                  	: $darkgrey;
 
 $primary-color               	: $black;
 $success-color               	: #2ecc71;
@@ -63,6 +75,15 @@ $youtube-color		            : #ff3333;
 
 
 /*
+   space variables
+   ========================================================================== */
+
+$tile_space						:8px ;
+$menu_li_space					:8px ;
+$space							:10px;
+
+
+/*
    Form variables
    ========================================================================== */
 
@@ -75,13 +96,19 @@ $form-box-shadow-focus       	: $form-box-shadow, 0 0 5px rgba(darken($form-bord
 $form-font-family            	: $base-font;
 $form-font-size              	: $doc-font-size;
 
+$tiles_hight					: 12em;
+$site_footer_height				: 250px;
+$footer_height					: 325px;
+$bottom_menu_height				: 75px;
+$page_lead_height				: 250px;
+
 
 /*
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	: #8EB4E3;
-$sliding-menu-background   	: #8EB4E3;
+$sliding-menu-border-color	: $orange; /*ursprünglich #8EB4E3*/
+$sliding-menu-background   	: $orange; /*ursprünglich #8EB4E3*/
 $sliding-menu-color 	 	: $white;
 $sliding-menu-background-hover 	: $sliding-menu-background;
 $sliding-menu-color-hover	: $white;

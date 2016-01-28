@@ -24,8 +24,8 @@
   position: fixed;
   transform: translateZ(0);
   backface-visibility: hidden; /* fix scroll jank */
-  top: $gutter;
-  right: $gutter;
+  top: $space;
+  right: $space;
   display: block;
   width: $button-size * 2;
   height: $button-size * 2;
