@@ -75,21 +75,17 @@ ins {
 /* Links */
 
 a {
-	color: $link-color;
+	color: $darkgrey;
 
-	&:hover {
-		color: darken($link-color, 20);
-	
-	}
-	&:focus {
-		@extend %tab-focus;
-color:green;
-	}
-	&:hover,
-	&:active {
-		/*outline: 0;*/
-		
-	}
+	&:hover	{
+				color:$green2;	
+				background: transparent;					
+			}
+
+			&.active {
+				//color:$white;
+				//background: $green3;	
+			}
 }
 
 /* Quoted text */

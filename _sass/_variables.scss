@@ -29,22 +29,30 @@ $green							: #bce292;
 $green2							: #aed285;
 $green3							: #a1c577;
 $orange							: #f79f57;
+$orange2						: #e89551;
+$orange3						: #dc8a48;
 $grey							: #999;
 $darkgrey						: #444;
 $lightgrey						: #E4E4E4;
-$body_color						: #FCFCFC;
 
+$body_color						: #FCFCFC;
 $body-color                  	: #ebebeb;
 
 $text-color                  	: #313130;
 $text-color2                  	: #fff;
 $caption-color                	: mix($white, $text-color, 25%);
+$page-head-color				: $orange;
+$page-head-color2				: $orange3;
 
 $base-color                  	: #343434;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $border-color2                	: #444;
-$link-color                  	: $darkgrey;
+
+$link-color                  	: $green; /* or orange*/
+$link-color2                   	: $green2; /* or orange*/
+$link-color3                  	: $green3; /* or orange*/
+
 
 $primary-color               	: $black;
 $success-color               	: #2ecc71;
@@ -60,17 +68,17 @@ $table-hover-color           	: darken($table-background, 2);
 $table-stripe-color          	: darken($table-background, 4);
 $table-stripe-color-hover    	: darken($table-stripe-color, 5);
 
-$facebook-color					      : #3b5998;
-$flickr-color					        : #ff0084;
-$foursquare-color				      : #0cbadf;
-$google-plus-color				    : #dd4b39;
-$instagram-color				      : #4e433c;
-$linkedin-color					      : #4875b4;
-$pinterest-color				      : #cb2027;
-$rss-color						        : #fa9b39;
-$tumblr-color					        : #2c4762;
-$twitter-color					      : #55acee;
-$vimeo-color					        : #1ab7ea;
+$facebook-color					: #3b5998;
+$flickr-color					: #ff0084;
+$foursquare-color				: #0cbadf;
+$google-plus-color				: #dd4b39;
+$instagram-color				: #4e433c;
+$linkedin-color					: #4875b4;
+$pinterest-color				: #cb2027;
+$rss-color						: #fa9b39;
+$tumblr-color					: #2c4762;
+$twitter-color					: #55acee;
+$vimeo-color					: #1ab7ea;
 $youtube-color		            : #ff3333;
 
 
@@ -100,7 +108,7 @@ $tiles_hight					: 12em;
 $site_footer_height				: 250px;
 $footer_height					: 325px;
 $bottom_menu_height				: 75px;
-$page_lead_height				: 250px;
+$page_lead_height				: 300px;
 
 
 /*

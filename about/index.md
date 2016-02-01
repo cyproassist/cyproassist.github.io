@@ -29,14 +29,15 @@ E-Mail: info(at)zv.fraunhofer.de
 </pre>
 
 
-#### Verantwortlicher Redakteur
+### Verantwortlicher Redakteur
 
-<pre style="font-size: inherit; font-family: inherit">
+<pre style="font-size: inherit; font-family: inherit; white-space: pre-wrap">
 Ken Wenzel
 ken.wenzel(at)iwu.fraunhofer.de
 </pre>
 
-
+<br>
+<hr style="height:1px !important; background: #E4E4E4;">
 <br>
 
 <pre style="font-size: inherit; font-family: inherit">
@@ -51,14 +52,14 @@ Eingetragener Verein
 Register-Nr. VR 4461
 </pre>
 
-#### Vorstand
+### Vorstand
 <pre style="font-size: inherit; font-family: inherit; white-space: pre-wrap">
 Prof. Dr.-Ing. Reimund Neugebauer, Präsident, Unternehmenspolitik, Technologiemarketing und Geschäftsmodelle
 Prof. Dr. Alexander Kurz, Personal, Recht und Verwertung
 Prof. (Univ. Stellenbosch) Dr. Alfred Gossner, Finanzen, Controlling (inkl. Betriebswirtschaft, Einkauf, Liegenschaften) und IT
 </pre>
 
-#### Nutzungsrechte
+### Nutzungsrechte
 
 <pre style="font-size: inherit; font-family: inherit; white-space: pre-wrap">
 Copyright © by
@@ -74,12 +75,11 @@ Ein Download oder Ausdruck ist darüber hinaus lediglich zum Zweck der Berichter
 Grafische Veränderungen an Bildmotiven - außer zum Freistellen des Hauptmotivs - sind nicht gestattet. Es ist stets die Quellenangabe und Übersendung von zwei kostenlosen Belegexemplaren an die oben genannte Adresse erforderlich. Die Verwendung ist honorarfrei.
 </pre>
 
-#### Haftungshinweis
+### Haftungshinweis
 
-<pre style="font-size: inherit; font-family: inherit; white-space: pre-wrap">
 Wir übernehmen keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
 Wir sind bemüht, das Webangebot stets aktuell und inhaltlich richtig sowie vollständig anzubieten. Dennoch ist das Auftreten von Fehlern nicht völlig auszuschließen. Das Fraunhofer-Institut bzw. die Fraunhofer-Gesellschaft übernimmt keine Haftung für die Aktualität, die inhaltliche Richtigkeit sowie für die Vollständigkeit der in ihrem Webangebot eingestellten Informationen. Dies bezieht sich auf eventuelle Schäden materieller oder ideeller Art Dritter, die durch die Nutzung dieses Webangebotes verursacht wurden.
 
 Geschützte Marken und Namen, Bilder und Texte werden auf unseren Seiten in der Regel nicht als solche kenntlich gemacht. Das Fehlen einer solchen Kennzeichnung bedeutet jedoch nicht, dass es sich um einen freien Namen, ein freies Bild oder einen freien Text im Sinne des Markenzeichenrechts handelt.
-</pre>
+

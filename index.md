@@ -2,7 +2,8 @@
 layout: home
 permalink: /
 image:
-  feature: industrie.jpg
+  feature: industrie2.png
+  
 ---
 
 <div class="tiles" style="">

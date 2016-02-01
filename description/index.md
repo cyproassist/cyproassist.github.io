@@ -15,7 +15,11 @@ Die Betreiber von Produktionsanlagen – so unterschiedlich ihre Produkte auch s
 
 ### Verbundprojektziel
 
-<img style="float:right; margin-left: 10px" src="/images/friendly-improver.png" alt="">
+<div class="page-image" style="float:right; margin-left: 10px;">
+<img style="margin-bottom:40px;" src="/images/friendly-improver2.png" alt="">
+<a class="image-credit" target="_blank" href="http://de.freepik.com/vektoren-kostenlos/bauingenieur-symbole_768884.htm"> - Entworfen durch Freepik</a>
+</div>
+
 Das Ziel des Vorhabens CYPROASSIST ist die Schaffung eines Fertigungsassistenzsystems FRIENDLYIMPROVER und dessen Anwendung unter realen Produktionsbedingungen. Dieses System stellt den Menschen als kreativen Problemlöser in den Mittelpunkt der Fertigung und unterstützt ihn so, dass er seine kognitiven Fähigkeiten optimal in den Produktionsprozess einbringen kann. Damit wird einerseits eine Fehlervermeidung bzw. -begrenzung erreicht, andererseits aber auch die Arbeitszufriedenheit des Menschen verbessert. Das Vorhaben adressiert neben dem Fertigungsassistenzsystem zwei weitere Forschungsschwerpunkte: Mit der cyber-physischen Datenintegration und -analyse wird die informationstechnische Grundlage für das Fertigungsassistenzsystem FRIENDLYIMPROVER gelegt, und durch adaptive Bedien- und Schulungskonzepte wird die Mensch-Maschine-Schnittstelle neu gestaltet.
 
 ### Vorgehensweise
