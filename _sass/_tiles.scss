@@ -4,29 +4,59 @@
 
 .tile {
   word-break: normal;
-  @include outer-container;
-  margin-bottom: $gutter;
+  color: $darkgrey;
+  padding: 10px;
+  margin:$space;
+  
+  a {
+	color: $darkgrey;
+	margin-top: $space;
+	padding:0 !important;
+	font-weight: 500;
+
+	&:hover	{
+		color:$link-color2;	
+		background: transparent;					
+		}
+
+	&.active {
+		//color:$white;
+		//background: $link-color3;	
+		}
+
+		
+	}
+ 
+
   @include media($micro) {
     @include fill-parent;
   }
-  @include media(new-breakpoint(min-width em(768) 12)) {
-    @include span-columns(3);
-    @include omega(4n);
+  
+  @include media(new-breakpoint(min-width em(768) 4)) {
+    @include span-columns(2);
+    //@include omega(4n);
   }
+  
   .entry-date {
     @include font-size(16,no);
     color: lighten($text-color,25);
   }
   .post-title {
-    @include font-size(18,no);
+   /* @include font-size(20,no);*/
+   	font-size: 1.7em;
+	margin-top:$space;
+	margin-bottom:0;
   }
   .post-excerpt {
-    @include font-size(16);
+	margin-top:$space;
+    @include font-size(18);
   }
   .post-teaser {
     position: relative;
     display: block;
-    &:after {
+	
+	
+   /* &:after {
       content: '';
       position: absolute;
       width: 100%;
@@ -37,10 +67,11 @@
       pointer-events: none;
       @include transition(background 0.3s);
     }
+	
     &:hover {
       &:after {
         background: rgba($base-color,0.2);
       }
-    }
+    }*/
   }
 }

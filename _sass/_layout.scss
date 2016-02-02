@@ -1,13 +1,23 @@
 /* ==========================================================================
    Page layout
    ========================================================================== */
+html, body{
+    height: 100% ;
 
+}
+   
+*{
+	margin: 0;
+}
+   
 /*
    Masthead
    ========================================================================== */
 
 #masthead {
-	padding: $gutter;
+	background: $white;
+	border-bottom: 1px solid $lightgrey;
+	box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.1);
 	z-index: 5;
 	@include transform(translate(0,0));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
@@ -24,7 +34,8 @@
 		@include span-columns(4);
 	}
 	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
-	height: $masthead-height;
+	margin-top: $space;
+	height: 70px;
 	text-decoration: none;
 	color: $black;
 	font-family: $alt-font;
@@ -40,44 +51,31 @@
    ========================================================================== */
 
 .menu {
+			
 	li {
 		float: left;
+					
 		&:last-child a {
 			@include media($medium) {
 				margin-right: 0; // remove spacing from last menu link
 			}
 		}
 		a {
-			// line hover effect
 			position: relative;
-			display: block;
-			margin-right: $gutter;
-			padding: (.25 * $masthead-height) 0 (.25 * $masthead-height) ;
-			height: $masthead-height;
+			display: block;	
 			font-family: $alt-font;
-			&:before,
-			&:after {
-				content: '';
-				display: block;
-				position: absolute;
-				top: 0;
-				left: 0;
-				height: 2px;
-				@include transition(width 0.3s);
+			line-height: 20px;
+
+			&:hover	{
+				color:$white;		
+				background:$link-color;				
 			}
-			&:before {
-				width: 100%;
-				background: transparent;
+
+			&.active {
+				color:$white;
+				background: $link-color3;
 			}
-			&:after {
-				width: 0;
-				background: $black;
-			}
-			&.active:after,
-			&:active:after,
-			&:hover:after {
-				width: 100%;
-			}
+
 		}
 	}
 }
@@ -87,11 +85,12 @@
 .top-menu {
 	display: none;
 	position: relative;
+	
 	@include media($medium) {
 		@include span-columns(12);
 	}
 	@include media($large) {
-		@include span-columns(7);
+		@include span-columns(8);
 		ul {
 			position: absolute;
 			right: 0;
@@ -102,36 +101,90 @@
 		display: none;
 	}
 	li {
+				
 		a {
-			font-weight: 700;
-			@include font-size(16,no);
+			color: $darkgrey;
+			@include font-size(18,no);
 			line-height: .5 * $masthead-height; // half the height to center vertically
-			color: $black;
+			padding: 10px 10px;
 			text-transform: uppercase;
+			font-family: $alt-font;
+			padding-top: 25px !important;
+			padding-bottom: 25px !important;
+
+			&:hover	{
+				color:$white;
+				background: $link-color2;				
+			}
+
+			&.active {
+				color:$white;
+				background: $link-color3;	
+			}
+
 		}
 	}
 }
 
-/* Bottom menu navigation */
-
+/* Bottom menu navigation in Footer */
 .bottom-menu {
-	@include clearfix;
+	position: relative !important;
+	height: $bottom_menu_height; 
+	//@include clearfix;
+	text-align:center;
 	font-weight: 700;
-	a {
-		color: lighten($black,60);
+	@include outer-container;
+		
+	ul{
+		//position: fixed; /* or absolute */
+		margin-left: $space ;
+		
+		
+		p{
+			color: $white;
+			margin-top: $space;
+			margin-bottom: 0 !important;
+			border-bottom: solid 1px #555;/*#bf9571		*/
+			font-size: 20px ;
+		}
+	
+		a {
+			//color: lighten($link-color ,60);
+			color: $white;
+			margin-top: $space;
+			padding:0 !important;
+			float:left;
+			font-weight: 500;
+
+			&:hover	{
+				color:$link-color2 !important;	
+				background: transparent;					
+			}
+
+			&.active {
+				//color:$white;
+				//background:$link-color3;	
+			}
+
+		
+		}
 	}
 }
 
 
 /*
-   Page wrapper
+   Page wrapper contains Main + Footer)
    ========================================================================== */
 
 #page-wrapper {
-	padding: 0 $gutter; // add white space for smaller screens
+	position:relative;
+		display : table;
+		
+	//padding: 0 $gutter; // add white space for smaller screens
 	@include size(100% 100%);
+	
 	-webkit-overflow-scrolling: touch;
-	z-index: 2;
+	//z-index: 2;
 	@include transform(translate(0,0));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
 	&.slide {
@@ -144,7 +197,17 @@
    ========================================================================== */
 
 #main {
+		min-height: 100%;
+		height: auto !important; 
+		
+		//margin-bottom: -$site_footer_height ;
+		//@include outer-container;
+		//padding-left: 3% ;
+		//padding-bottom: $site_footer_height;
+
+
 	.inner-wrap {
+
 		@include media($medium) {
 			@include span-columns(12);
 		}
@@ -154,6 +217,9 @@
 	}
 	@at-root {
 		.page-content {
+		
+			margin-bottom: 2em;
+			
 			@include fill-parent;
 			// larger font for intro paragraph
 			> p {
@@ -162,14 +228,19 @@
 				}
 			}
 			// cleaner underlines for links
-			a { text-decoration: none; }
+			
+			a {
+			text-decoration: none; 
+			}
 			p a,
 			li a {
 				border-bottom: 1px dotted lighten($link-color, 50);
+				
 				&:hover {
 					border-bottom-style: solid;
 				}
 			}
+			
 			p > a.reversefootnote {
 				border-bottom-width: 0;
 			}
@@ -190,9 +261,12 @@
 		}
 	}
 	@at-root {
-		.archive-wrap {
-			@include fill-parent;
+	
+	.archive-wrap {
+		
+		@include fill-parent;
 			.page-content {
+			
 				@include reset-all;
 				@include fill-parent;
 			}
@@ -227,44 +301,87 @@
 		}
 	}
 }
-// page lead
+
+
+
+
+
+/* 
+   Page lead
+   ========================================================================== */
 .page-lead {
+	height: $page_lead_height !important;
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	text-align: center;
-//	color: $white;
 	@include media($large) {
 		background-size: cover;
 	}
 }
+
 .page-lead-content {
-	padding: 1em;
+
+	//background: rgba(255, 255, 255, 0.7) none repeat scroll 0% 0%;
+	height: $page_lead_height !important;
+	margin: 0 auto;
+	
+	
+	@include media($micro) {
+		padding: 3.5em 1em 1em 1em;
+	}
+
+	@include media($short) {
+		padding: 3.5em 1em 1em 1em;
+	}
+	
+	@include media($small) {
+		padding: 3.5em 1em 1em 1em;
+	}
+
 	@include media($medium) {
-		padding: 2em;
+		padding: 3.5em 1em 1em 1em;
 	}
 	@include media($large) {
-		padding: 3em;
+		padding: 4.5em 1.5em 1.5em 1.5em;
 	}
+	
 	h1 {
-		@include font-size(48);
+		color: $white;
+		background: $page-head-color;
+		display:inline-block;
+		@include font-size(36);
+		font-weight: 600;
+		padding: 15px;
+		margin-right: 1em;
+		margin-bottom: $space !important;
+		
+		
+
 		@include media($medium) {
-			@include font-size(60);
+			@include font-size(38);
 		}
 		@include media($large) {
-			@include font-size(72);
+			@include font-size(40);
 		}
 	}
 	h2 {
+		color: $white;
+		display:inline-block;
+		background: $page-head-color;
+		padding: $space;
 		@include font-size(20);
+		font-weight: 600;
+
+			
 		@include media($medium) {
-			@include font-size(24);
+			@include font-size(20);
 		}
 		@include media($large) {
-			@include font-size(32);
+			@include font-size(22);
 		}
 	}
 }
+
 // page header
 .page-feature {
 	@include fill-parent;
@@ -273,29 +390,41 @@
 		width: 100%;
 	}
 }
+
 // make image flush with edges on small screens
 .page-image {
 	position: relative;
-	margin-left: -1 * $gutter;
-	margin-right: -1 * $gutter;
+	//margin-left: -1 * $gutter;
+	//margin-right: -1 * $gutter;
+	
 	// feature image caption
 	.image-credit {
 		position: absolute;
 		bottom: 0;
 		right: 0;
-		margin: 0 auto;
 		padding: 10px 15px;
-		background-color: rgba($black,.5);
-		color: $white;
+		//background-color: rgba($black,.5);
+		color: $darkgrey;
+		
 		font-family: $alt-font;
 		@include font-size(12,no);
 		text-align: right;
-		z-index: 10;
+
 		a {
 			color: $white;
 			text-decoration: none;
+			
+			&:hover	{
+				color:$link-color2 !important;	
+				background: transparent;					
+			}
+
+			&.active {
+				//color:$white;
+				//background: $link-color3;	
+			}
 		}
-	}
+	} 
 }
 
 /*
@@ -310,7 +439,7 @@
 
 .author-image {
 	position: absolute;
-	left: 0;
+	//left: 0;
 	img {
 		width: 80px;
 		height: 80px;
@@ -327,11 +456,13 @@
 	word-wrap: break-word;	
 }
 .author-name {
-	@include font-size(20,no);
+	@include font-size(16,no);
+	color: $grey;
 }
 .author-bio {
 	margin-top: 0;
 	@include font-size(16);
+	color: $grey;
 }
 
 /*
@@ -339,18 +470,89 @@
    ========================================================================== */
 
 #site-footer {
-	@include outer-container;
-	margin-top: (3 * (0px + $doc-line-height));
-	margin-top: (3 * (0rem + ($doc-line-height / $doc-font-size)));
-	padding-bottom: $gutter;
+display : table-row;
+	clear: both;
+	width: 100%;
+	position: relative;
+	height: $site_footer_height;
+
+
+	margin-top: -$site_footer-height;
+	//position: absolute;
+	//bottom: 0;
+	
+	border-top: 2px solid $grey; /* #bf9571;*/
 	font-family: $alt-font;
-  /* Copyright text */
+	background: #444; /*a68162;*/
+	
+	
+	
+	  /* Copyright text */
 	.copyright {
+		background: #222; /* #8f6a4c; */ 
+		border-top: 1px solid #444; /*##bf9571;*/
+		text-align: center !important; 
+		width: 100% ;
+		position: absolute; 
+		//left: 45%;
+		margin: $space 0 0 0 !important;
+		bottom:0;
 		@include font-size(12);
-		color: lighten($black,60);
-		a {
-			color: lighten($black,60);
+		color: $white ;
+		
+		/*a {
+		//	color: lighten($black,60);
 			text-decoration: none;
+			color: $white;
+		}*/
+		
+		a {
+			color: $white;
+			text-decoration: none;
+			
+			&:hover	{
+				color:$link-color2 !important;	
+				background: transparent;					
+			}
+
+			&.active {
+				//color:$white;
+				//background: $link-color3;	
+			}
+
+		
 		}
 	}
+	
+}
+
+#inner-footer{
+	@include outer-container;
+	margin-bottom: $space;
+	li {
+	
+	//links
+	a {
+			color: $white;
+			text-decoration: none;
+			
+			&:hover	{
+				color:$link-color2;	
+				background: transparent;					
+			}
+
+			&.active {
+				//color:$white;
+				//background: $link-color3;	
+			}
+
+		
+		}
+		
+	}
+	.footer_img {
+		margin: $space !important;
+		height: 120px;
+	}
+	
 }

@@ -7,7 +7,7 @@ excerpt:
 tags: []
 image:
   feature:
-  teaser:
+  teaser: 
 ---
 
 <div class="tiles">
