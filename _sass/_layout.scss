@@ -26,6 +26,8 @@ html, body{
 	}
 	.inner-wrap {
 		@include outer-container;
+        padding-left:$space;
+        padding-right:$space;
 	}
 }
 .site-title {
@@ -178,7 +180,8 @@ html, body{
 
 #page-wrapper {
 	position:relative;
-		display : table;
+	//display : table;
+	
 		
 	//padding: 0 $gutter; // add white space for smaller screens
 	@include size(100% 100%);
@@ -214,11 +217,13 @@ html, body{
 	}
 	.page-title {
 		@include fill-parent;
+        padding: $space; // add white space for smaller screens
 	}
 	@at-root {
 		.page-content {
 		
 			margin-bottom: 2em;
+            padding: $space; // add white space for smaller screens
 			
 			@include fill-parent;
 			// larger font for intro paragraph
@@ -327,11 +332,11 @@ html, body{
 	
 	
 	@include media($micro) {
-		padding: 3.5em 1em 1em 1em;
+		padding: 2.5em 1em 1em 1em;
 	}
 
 	@include media($short) {
-		padding: 3.5em 1em 1em 1em;
+		padding: 2.5em 1em 1em 1em;
 	}
 	
 	@include media($small) {
@@ -394,6 +399,8 @@ html, body{
 // make image flush with edges on small screens
 .page-image {
 	position: relative;
+	max-width: 100%;
+	float:right;
 	//margin-left: -1 * $gutter;
 	//margin-right: -1 * $gutter;
 	
@@ -470,7 +477,7 @@ html, body{
    ========================================================================== */
 
 #site-footer {
-display : table-row;
+	//display : table-row;
 	clear: both;
 	width: 100%;
 	position: relative;
@@ -485,6 +492,13 @@ display : table-row;
 	font-family: $alt-font;
 	background: #444; /*a68162;*/
 	
+	@include media($micro) {
+			margin-top: -$site_footer-height2;
+		}
+		@include media($small) {
+			margin-top: -$site_footer-height2;
+		}
+	}
 	
 	
 	  /* Copyright text */
@@ -493,9 +507,9 @@ display : table-row;
 		border-top: 1px solid #444; /*##bf9571;*/
 		text-align: center !important; 
 		width: 100% ;
-		position: absolute; 
+		position: relative; 
 		//left: 45%;
-		margin: $space 0 0 0 !important;
+		margin: 0 0 0 0 !important;
 		bottom:0;
 		@include font-size(12);
 		color: $white ;
@@ -524,11 +538,12 @@ display : table-row;
 		}
 	}
 	
-}
+
 
 #inner-footer{
 	@include outer-container;
-	margin-bottom: $space;
+	padding-bottom: $space;
+	background: #444; /*a68162;*/
 	li {
 	
 	//links
@@ -552,7 +567,7 @@ display : table-row;
 	}
 	.footer_img {
 		margin: $space !important;
-		height: 120px;
+		//height: 120px;
 	}
 	
 }

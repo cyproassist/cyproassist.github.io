@@ -31,7 +31,7 @@ image:
 
 <h5 style=" margin:1.5em; border-bottom: 2px solid #eee;font-size:18px">NEUESTE BEITRÄGE </h5>
 
-<div class="tiles" style="margin:0.5em;">
+<div class="tiles" style="">
 {% for post in site.categories.articles %}
   {% include post-grid.html %}
 {% endfor %}
