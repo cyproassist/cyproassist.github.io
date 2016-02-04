@@ -84,7 +84,7 @@ An den rasanten Veränderungen in der Industrie, die sich mit dem Begriff Indust
 
 ###### Ansprechpartner: Dr. Bernd Streicher (bernd.streicher(at)hoermann-rawema.de)
 
-### Softwareentwickler/Systemintegratoren
+### Softwareentwickler/ Systemintegratoren
 
 #### N+P Informationssysteme GmbH (N+P)
 
@@ -114,7 +114,7 @@ Darüber hinaus entwickelt die TGU Interaktion.biz auch eigene Technologien im B
 
 ###### Ansprechpartner: Susann Struwe (Susann.Struwe(at)interaktion.biz)
 
-### FuE-Dienstleister/Begleitforschungsinstitute
+### FuE-Dienstleister/ Begleitforschungsinstitute
 
 #### Fraunhofer IWU
 
