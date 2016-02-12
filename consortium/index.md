@@ -16,6 +16,17 @@ ads: false
 
 ![PMQ]({{ site.url }}/images/logos/PMQ.gif){: .company-logo } 
 
+Peterstaler Mineralwasser aus den Tiefen des Schwarzwaldes überrascht durch seinen reinen und frischen Geschmack. Für Wasserexperten zählt Peterstaler wegen seiner ausgewogenen Mineralisierung und des harmonischen Geschmacks zu den qualitativ hochwertigsten Mineralwässern – es wurde bereits mehrfach mit der Bestnote „sehr gut“ ausgezeichnet. 
+
+Das Traditionsunternehmen Peterstaler Mineralquellen wurde bereits 1926 gegründet. Als renommierter Mineralbrunnen mit Standorten in Bad Peterstal und Bad Rippoldsau im Schwarzwald führt Peterstaler eine Auswahl verschiedener Mineralwässer, sodass man  sich „sein“ individuelles Wasser nach eigenen Präferenzen selbst auswählen kann. Ob Peterstaler, die Marke Schwarzwaldperle oder das beliebte stille Wasser „Black Forest“, ob in leichten PET-Flaschen oder Gourmet-Glasflaschen mit edlem Design, ob mit Kohlensäure, medium oder als still: Peterstaler hat für jeden Geschmack das passende Mineralwasser. Daneben umfasst das breite Sortiment an alkoholfreien Getränken aber auch spritzige Schorlen, prickelnde Limonaden sowie Sport- und Fitnessgetränke.
+
+Besonders stark im Trend ist die stille Mineralwassermarke „Black Forest“. Es ist Deutschlands kochsalzärmstes Mineralwasser, natriumarm und sogar für Babynahrung geeignet. Es eignet sich auch zur kochsalzarmen Ernährung bei Bluthochdruck und Diabetes. Das Mineralwasser ist ein echtes Lifestyle-Produkt. Das Flaschen-Design wurde mit einem reddott-award ausgezeichnet. Black Forest zählt mittlerweile zu den zehn meistgetrunkenen stillen Mineralwässern in Deutschland.
+
+Gleichzeitig ist das mittelständische Unternehmen Peterstaler bekannt für sein Sponsoring von Sport, Kultur, Tourismus und Vereinen. Alleine über 400 Sportvereine in der Region und über 300 Events werden von Peterstaler unterstützt. Daneben ist Peterstaler Premiumpartner der Schwarzwald Tourismus GmbH, engagiert sich im Festspielhaus Baden-Baden, dem Blühenden Barock Ludwigsburg, beim Felix Burda Award zur Darmkrebsvorsorge und natürlich in den Heimatgemeinden Bad Peterstal und Bad Rippoldsau.
+
+Aus Tradition fühlt man sich der Region und ihren Menschen seit jeher verbunden. Mit einer Aufsehen erregenden Werbekampagne „Ich bin Peterstaler“ hat der Betrieb aktuell seine Mitarbeiter in Szene gesetzt und dafür viel Beifall geerntet. Die Liebe zur Natur und ihren Wässern, der hohe Anspruch an beste Qualität und das Bewusstsein für Nachhaltigkeit eint Geschäftsleitung und Mitarbeiter.
+
+###### Webseite: <http://www.peterstaler.de>
 
 #### C. Ed. Schulte GmbH Zylinderschlossfabrik (CES)
 
