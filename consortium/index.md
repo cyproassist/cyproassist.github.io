@@ -71,6 +71,18 @@ Heute beschäftigt das Unternehmen 65 Mitarbeiter. CPT ist Preisträger im bunde
 
 ![KHS]({{ site.url }}/images/logos/KHS.jpg){: .company-logo } 
 
+Als international tätiger Hersteller von Abfüll- und Verpackungsanlagen für die Getränke-, Food- und Non-Food-Industrie nimmt die KHS GmbH eine führende Stellung in der Branche ein. Das Unternehmen ist 1993 aus dem Zusammenschluss der 1868 gegründeten Holstein & Kappert AG, Dortmund, und der Seitz-Werke GmbH (später SEN AG), Bad Kreuznach, entstanden. Mit Firmensitz in Dortmund realisierte der KHS Konzern* in 2014 mit mehr als 4.600 Mitarbeitern einen Umsatz von über 1 Mrd. Euro. Die KHS GmbH ist eine 100-prozentige Tochtergesellschaft der zum Salzgitter-Konzern gehörenden Salzgitter Klöckner-Werke GmbH.
+ 
+An fünf deutschen Standorten entwickelt und fertigt KHS das gesamte Portfolio an Abfüll- und Verpackungsmaschinen. Besonders Hochleistungsanlagen, aber auch Lösungen für kleinere Ausstoßleistungen befinden sich im Angebot. 
+ 
+Dortmund ist neben der Firmenzentrale auch das Zentrum für Reinigungs-, Pasteur-, Inspektions- Etikettier- und Transporttechnik. Als einer von vier weiteren Standorten in Deutschland steht Kleve für Verpackungstechnik mit Fokus auf modernsten Endverpackungen. In Bad Kreuznach sind die Kompetenzen für Prozesstechnik, Abfülltechnik und Aseptik konzentriert wie zum Beispiel Filtration, Getränkemischtechnik, Kurzzeiterhitzung, Keg-Technologie oder Rins-, Füll- und Verschließsysteme. In Worms entstehen Hochleistungspalettierer sowie Ein- und Auspacklösungen. Schwerpunkt in Hamburg ist die PET-Kompetenz des Konzerns:  Streckblas- und Barrieretechnologie sowie die Bottles& Shapes PET-Flaschenentwicklung sind hier angesiedelt. Neben den deutschen Produktionsstätten unterhält KHS weitere Werke in den USA, Mexiko, Brasilien, Indien und China.
+ 
+Die KHS GmbH wird als ein Marktführer und Anbieter innovativer, zuverlässiger und hocheffizienter Produkte und Dienstleistungen wie Turnkey-Gesamtanlagen, Einzelmaschinen, Umbauten und nicht zuletzt wegen eines rund um die Uhr verfügbaren, weltweiten Vor-Ort-Service geschätzt. Moderne Konzepte, die entlang der Kundenerwartungen konsequent entwickelt und produziert werden, unterstreichen die KHS Vision „First Choice in Technology and Service“. 
+ 
+Im Sinne ihrer Unternehmensverantwortung legt die KHS GmbH besonderen Fokus auf die Entwicklung von nachhaltigen Lösungen, eine umweltschonende Produktion und soziale Aspekte. Ethik-Audits, Ökoprofit-Auszeichnungen und die aktuellen TÜV-Zertifizierungen belegen das eindrucksvoll.
+
+###### Webseite: <http://www.khs.com>
+
 #### SITEC Industrietechnologie GmbH (SITEC)
 
 ![SITEC]({{ site.url }}/images/logos/SITEC.png){: .company-logo } 
