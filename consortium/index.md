@@ -45,6 +45,7 @@ CEStronics entwickelt und vermarktet zeit- und personenbezogene Zutrittskontroll
 ##### CESlocks: hochwertige Einsteckschlösser
 
 CESlocks produziert hochwertige Einsteckschlösser für das anspruchsvolle Objektgeschäft und bietet innovative Schlosslösungen für spezielle Anforderungen an. 
+
 Mit rund 430 Mitarbeitern erwirtschaftete die Gruppe 2014 einen Gesamtumsatz von 42 Millionen Euro. Neben dem Produktionsstandort Velbert betreibt CES eine weitere Fertigungsstätte in Rumänien und unterhält Vertriebsniederlassungen in zahlreichen europäischen Ländern. Außerdem wird CES weltweit über verschiedene Partnerunternehmen repräsentiert.
 
 ###### Webseite: <http://www.ces.eu>
