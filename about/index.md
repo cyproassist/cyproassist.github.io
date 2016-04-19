@@ -9,7 +9,7 @@ share: false
 ads: false
 ---
 
-<pre style="font-size: inherit; font-family: inherit">
+<pre style="font-size: inherit; font-family: inherit; white-space: pre-wrap">
 Das Fraunhofer-Institut für Werkzeugmaschinen
 und Umformtechnik IWU
 Reichenhainer Straße 88
@@ -28,24 +28,12 @@ Internet: www.fraunhofer.de
 E-Mail: info(at)zv.fraunhofer.de
 </pre>
 
-
-### Verantwortlicher Redakteur
-
-<pre style="font-size: inherit; font-family: inherit; white-space: pre-wrap">
-Ken Wenzel
-ken.wenzel(at)iwu.fraunhofer.de
-</pre>
-
 <br>
 <hr style="height:1px !important; background: #E4E4E4;">
 <br>
-
-<pre style="font-size: inherit; font-family: inherit">
+<pre style="font-size: inherit; font-family: inherit; white-space: pre-wrap">
 Umsatzsteuer-Identifikationsnummer gemäß § 27 a
 Umsatzsteuergesetz: DE 129515865
-</pre>
-
-<pre style="font-size: inherit; font-family: inherit">
 Registergericht
 Amtsgericht München
 Eingetragener Verein
@@ -58,6 +46,26 @@ Prof. Dr.-Ing. Reimund Neugebauer, Präsident, Unternehmenspolitik, Technologiem
 Prof. Dr. Alexander Kurz, Personal, Recht und Verwertung
 Prof. (Univ. Stellenbosch) Dr. Alfred Gossner, Finanzen, Controlling (inkl. Betriebswirtschaft, Einkauf, Liegenschaften) und IT
 </pre>
+
+### Verantwortlicher Redakteur
+
+<pre style="font-size: inherit; font-family: inherit; white-space: pre-wrap">
+Ken Wenzel
+ken.wenzel(at)iwu.fraunhofer.de
+</pre>
+
+
+### Design & Umsetzung
+<pre style="font-size: inherit; font-family: inherit">
+TTI GmbH - TGU Interaktion.biz
+Willy-Andreas-Allee 19
+D76131 Karlsruhe
+
+E-Mail: info(at)interaktion.biz
+</pre>
+Webseite: <http://www.interaktion.biz/>
+
+
 
 ### Nutzungsrechte
 
