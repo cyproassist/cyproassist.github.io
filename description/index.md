@@ -9,15 +9,15 @@ image:
 share: false
 ads: false
 ---
-
 ### Problemlage
 Die Betreiber von Produktionsanlagen – so unterschiedlich ihre Produkte auch sind – sehen sich immer mit den gleichen Heraus-forderungen konfrontiert: Zeit- und Kosteneinsparung durch Vermeidung von Ausfall- und Stillstandzeiten, Vereinfachung der Anlagenbedienung für die Mitarbeiter, Wissens- und Erfahrungssicherung und – nicht zuletzt – der Druck des (durchaus auch globalen) Konkurrenzkampfes auf relativ gesättigten Märkten. Eine Möglichkeit zur Produktivitätssteigerung liegt in der Erhöhung der Fertigungstransparenz – beispielsweise durch die Messung geeigneter Kennzahlen. Das bedeutet, sehr große Datenmengen aus unterschiedlichsten Quellen zu nutzen. Die Herausforderung besteht allerdings nicht darin, Daten zu erfassen, sondern diese Daten sinnvoll und zielgerichtet zu speichern, zu verarbeiten, auszuwerten und die Ergebnisse dieser Auswertung den jeweiligen Entscheidungsträgern in geeigneter Form zur Verfügung zu stellen. Gleichzeitig ist es essenziell, die MitarbeiterInnen nicht nur so zu schulen, dass sie die neuen Industrie 4.0-Lösungen verstehen und nutzen können, sondern eben diese Lösungen so zu konzipieren, dass sie dem „Menschen in der Produktion“ maximale Unterstützung bieten.
 
 ### Verbundprojektziel
 
-<div class="page-image" style="float:right; margin-left: 10px;">
-<img style="margin-bottom:40px;" src="/images/friendly-improver2.png" alt="">
-<a class="image-credit" target="_blank" href="http://de.freepik.com/vektoren-kostenlos/bauingenieur-symbole_768884.htm"> - Entworfen durch Freepik</a>
+<div class="page-image" style="float:right">
+<img src="/images/friendly-improver2.png" alt="">
+<a class="image-credit" style="bottom:0 !important; margin-bottom:-40px" target="_blank" href="http://de.freepik.com/vektoren-kostenlos/bauingenieur-symbole_768884.htm"> - Entworfen durch Freepik</a>
+</img>
 </div>
 
 Das Ziel des Vorhabens CYPROASSIST ist die Schaffung eines Fertigungsassistenzsystems FRIENDLYIMPROVER und dessen Anwendung unter realen Produktionsbedingungen. Dieses System stellt den Menschen als kreativen Problemlöser in den Mittelpunkt der Fertigung und unterstützt ihn so, dass er seine kognitiven Fähigkeiten optimal in den Produktionsprozess einbringen kann. Damit wird einerseits eine Fehlervermeidung bzw. -begrenzung erreicht, andererseits aber auch die Arbeitszufriedenheit des Menschen verbessert. Das Vorhaben adressiert neben dem Fertigungsassistenzsystem zwei weitere Forschungsschwerpunkte: Mit der cyber-physischen Datenintegration und -analyse wird die informationstechnische Grundlage für das Fertigungsassistenzsystem FRIENDLYIMPROVER gelegt, und durch adaptive Bedien- und Schulungskonzepte wird die Mensch-Maschine-Schnittstelle neu gestaltet.

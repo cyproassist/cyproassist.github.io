@@ -1,13 +1,27 @@
 /* ==========================================================================
    Tiles
    ========================================================================== */
-
+   
 .tile {
   word-break: normal;
   color: $darkgrey;
-  padding: 10px;
-  margin:$space;
+  padding: 20px;
+  width:380px !important;
   
+  margin-top:$pad;
+  margin-bottom:$pad !important;
+  margin-right:$space !important;
+  margin-left:$space;
+  
+  background: #fff;
+  -webkit-box-shadow: 1px 2px 1px 0 rgba(0,0,0,.13);
+  box-shadow: 1px 2px 1px 0 rgba(0,0,0,.13);
+  
+  .tile &:last-of-type {
+    margin-right: 0;
+  }
+
+	
   a {
 	color: $darkgrey;
 	margin-top: $space;
@@ -75,3 +89,67 @@
     }*/
   }
 }
+   /*******************************************************************/
+   
+ * {
+  @include box-sizing(border-box);
+}
+
+.grid {
+  &:after {
+    /* Or @extend clearfix */
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+}
+
+[class*='col-'] {
+  float: left;
+  width: 100%;
+  
+  .grid &:last-of-type{
+    padding-right: 0;
+  }
+  
+  @include media($medium) {
+		width: 50%;
+	}
+
+	@include media($large) {
+		width: 50%;
+	}
+
+}
+.col-2-3 {
+  width: 100%;
+   
+	@include media($medium) {
+		width: 50%;
+	}
+
+	@include media($large) {
+		width: 50%;
+	}
+}
+/* Opt-in outside padding */
+.grid-pad {
+  padding: $pad 0 $pad $pad;
+  [class*='col-']:last-of-type {
+    padding-right: $pad;
+  }
+}
+   
+	
+.home_tile {
+  word-break: normal;
+  padding: $pad;
+  margin:$acticle_tile_space !important;
+  background: #a8d07c; 
+  color:$white ;
+   height: auto;
+  min-height: 12.2em;
+		
+}
+ 

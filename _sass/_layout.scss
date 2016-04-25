@@ -136,6 +136,7 @@ html, body{
 	text-align:center;
 	font-weight: 700;
 	@include outer-container;
+	padding:$space;
 		
 	ul{
 		//position: fixed; /* or absolute */
@@ -202,7 +203,8 @@ html, body{
 #main {
 		min-height: 100%;
 		height: auto !important; 
-		
+		background: #edefef;
+	
 		//margin-bottom: -$site_footer_height ;
 		//@include outer-container;
 		//padding-left: 3% ;
@@ -210,14 +212,22 @@ html, body{
 
 
 	.inner-wrap {
-
+		display:inline-block;
+	  padding: 20px 20px 50px 20px;
+	  margin:$acticle_tile_space !important;
+	  background: #fff;
+	  -webkit-box-shadow: 1px 2px 1px 0 rgba(0,0,0,.13);
+	  box-shadow: 1px 2px 1px 0 rgba(0,0,0,.13);
+  
 		@include media($medium) {
 			@include span-columns(12);
 		}
 	}
 	.page-title {
 		@include fill-parent;
-        padding: $space; // add white space for smaller screens
+        padding-top: $space; // add white space for smaller screens
+		
+			
 	}
 	@at-root {
 		.page-content {
@@ -229,7 +239,7 @@ html, body{
 			// larger font for intro paragraph
 			> p {
 				&:first-child {
-					@include font-size(20,yes,30);
+					//@include font-size(20,yes,30);
 				}
 			}
 			// cleaner underlines for links
@@ -305,6 +315,17 @@ html, body{
 			border-width: 0;
 		}
 	}
+	
+	
+	h5{
+		margin-top:1.5em; 
+		margin-bottom:1.5em; 
+		margin-left:0.5em; 
+		font-weight:300;
+		border-bottom: 1px solid #ddd;
+		font-size:20px;
+		
+	}
 }
 
 
@@ -347,7 +368,7 @@ html, body{
 		padding: 3.5em 1em 1em 1em;
 	}
 	@include media($large) {
-		padding: 4.5em 1.5em 1.5em 1.5em;
+		padding: 3.5em 1.5em 1.5em 1.5em;
 	}
 	
 	h1 {
@@ -358,9 +379,10 @@ html, body{
 		font-weight: 600;
 		padding: 15px;
 		margin-right: 1em;
+		margin-left:0 !important;
 		margin-bottom: $space !important;
-		
-		
+	
+
 
 		@include media($medium) {
 			@include font-size(38);
@@ -387,59 +409,75 @@ html, body{
 	}
 }
 
-// page header
-.page-feature {
-	@include fill-parent;
-	// expand image to cover full width of header
-	img {
-		width: 100%;
+	// page header
+	.page-feature {
+		@include fill-parent;
+		// expand image to cover full width of header
+		img {
+			width: 100%;
+		}
 	}
-}
+	.page-image img{
+		width:100%;
+		margin-bottom: $space;
+	}
 
-// make image flush with edges on small screens
-.page-image {
-	position: relative;
-	max-width: 100%;
-	float:right;
-	//margin-left: -1 * $gutter;
-	//margin-right: -1 * $gutter;
 	
-	// feature image caption
-	.image-credit {
-		position: absolute;
-		bottom: 0;
-		right: 0;
-		padding: 10px 15px;
+	.page-image {
+		position:relative;
+		float:left;
+		max-width: 100% !important;	
+		margin-bottom: 30px;
+		
+		padding:$space;
 		//background-color: rgba($black,.5);
+		font-family: $alt-font;
+		text-align: right;
+		@include font-size(14,no);
 		color: $darkgrey;
 		
-		font-family: $alt-font;
-		@include font-size(12,no);
-		text-align: right;
-
-		a {
-			color: $white;
-			text-decoration: none;
-			
-			&:hover	{
-				color:$link-color2 !important;	
-				background: transparent;					
-			}
-
-			&.active {
-				//color:$white;
-				//background: $link-color3;	
-			}
+		@include media($medium) {
+			margin-left: $space;
+			width:47%;
 		}
-	} 
-}
+		@include media($large) {
+			margin-left: $space;
+			width:47%;
+		}
+		
+		a{ 
+				color: $darkgrey;
+				text-decoration: none;
+				
+				&:hover	{
+					color:$link-color2 !important;	
+					background: transparent;					
+				}
 
+				&.active {
+					//color:$white;
+					//background: $link-color3;	
+				}		
+		}
+	
+
+	}
 /*
-   Page footer
+   Page author
    ========================================================================== */
 
-.page-footer {
+.page-author {
 	position: relative;
+	
+	
+	.page-meta {
+		p{
+			padding-left:$pad;
+			@include font-size(14,no);
+			font-family: $alt-font;
+			color: $darkgrey;
+				}
+			}
 }
 
 /* Author block */
@@ -460,16 +498,18 @@ html, body{
 }
 
 .author-content {
+	padding-left:$pad;
 	word-wrap: break-word;	
 }
 .author-name {
 	@include font-size(16,no);
-	color: $grey;
+	color: $darkgrey;
 }
 .author-bio {
+	display:none;
 	margin-top: 0;
 	@include font-size(16);
-	color: $grey;
+	color: $darkgrey;
 }
 
 /*
@@ -484,7 +524,7 @@ html, body{
 	height: $site_footer_height;
 
 
-	margin-top: -$site_footer-height;
+	margin-top: 0px;
 	//position: absolute;
 	//bottom: 0;
 	
@@ -492,12 +532,16 @@ html, body{
 	font-family: $alt-font;
 	background: #444; /*a68162;*/
 	
-	@include media($micro) {
-			margin-top: -$site_footer-height2;
+		@include media($micro) {
+			margin-top: -$site_footer_height2;
+				margin-top:0px;
 		}
 		@include media($small) {
-			margin-top: -$site_footer-height2;
+			margin-top: -$site_footer_height2;
+				margin-top:0px;
 		}
+		
+		
 	}
 	
 	
@@ -510,15 +554,11 @@ html, body{
 		position: relative; 
 		//left: 45%;
 		margin: 0 0 0 0 !important;
+		padding: $space !important;
 		bottom:0;
 		@include font-size(12);
 		color: $white ;
-		
-		/*a {
-		//	color: lighten($black,60);
-			text-decoration: none;
-			color: $white;
-		}*/
+
 		
 		a {
 			color: $white;
@@ -542,7 +582,7 @@ html, body{
 
 #inner-footer{
 	@include outer-container;
-	padding-bottom: $space;
+	padding: $space;
 	background: #444; /*a68162;*/
 	li {
 	
@@ -565,8 +605,9 @@ html, body{
 		}
 		
 	}
-	.footer_img {
+	.footer_img img{
 		margin: $space !important;
+		
 		//height: 120px;
 	}
 	
