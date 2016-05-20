@@ -124,11 +124,9 @@ Alles begann 1990 in Zwickau mit der Vision der computerintegrierten Produktion.
 
 ![n3]({{ site.url }}/images/logos/n3.png){: .company-logo } 
 
-Das Unternehmen wurde 1998 von Dr. Matthias Nagel gegründet und 2008 in n³ umbenannt. Wir sind spezialisiert auf Datenanalyse und Softwareentwicklung. Unsere Lösungen bilden die komplette Wertschöpfung rund um externe und interne Daten ab, von ihrer Sammlung über Analyse und Visualisierung bis hin zur Automatisierung. Im Auftrag namhafter europäischer Kunden aus Gesundheitswesen, Industrie, Telekommunikation, Forschung, Finanzdienstleistung und Verwaltung übernehmen wir die Datenanalyse und Integration der Ergebnisse in deren Arbeitsprozesse, entwickeln individuelle Software und passen unsere Technologien an kundeneigene Systeme an, beraten in Fachfragen und erstellen Business-Intelligence- sowie Managementinformations-Systeme.
+Das Team der n³ data & software science GmbH bringt Data Science und Big Data in den Mittelstand. Ziel ist die Abdeckung der Wertschöpfungskette durch Daten. 2013 wurde n³ in die Top 100-Liste aufgenommen und als eines der innovativsten mittelständischen Unternehmen ausgezeichnet. Das VisualCockpit von n³ war 2014 Branchensieger BI der Initiative Mittelstand. 2016 war n³ mit der "n³ analytical platform" erneut unter den Finalisten des Preises, mit der allgemeingültige Strukturen für ein smartes Data Handling im Produktionsumfeld entwickelt werden. 
 
-Seit März 2016 firmieren wir unter der Dachmarke Simba n³ Software GmbH. Die Muttergesellschaft ist der Finanzsoftwarehersteller Simba Computer Systeme GmbH aus Ostfildern bei Stuttgart und hält damit die Mehrheitsanteile an n³. Die Simba Computer Systeme GmbH entwickelt seit über 25 Jahren erfolgreich Finanzsoftware für Steuerkanzleien, Unternehmen sowie kirchliche & soziale Einrichtungen und ist einer der führenden Anbieter in dieser Branche.
-
-Unsere Eigenständigkeit wird durch die neue Firmierung jedoch in keiner Weise berührt oder verändert. Vielmehr dokumentiert das neue Auftreten Kompetenz, Flexibilität und Kraft als Unternehmensgruppe für unsere künftigen Aufgaben.
+2016 geht n³ ein Joint Venture mit der Simba Computer Systeme GmbH in Ostfildern bei Stuttgart ein. Nach dem organisatorischem Abschluss wird n³ zukünftig unter dem Firmennamen Simba n³ Software GmbH firmieren. Simba n³ verfügt dann im Verbund mit Simba  über Ressourcen von 80 Mitarbeitern und agiert an 4 Standorten in Deutschland.
 
 ###### Webseite: <http://www.nhochdrei.de>
 
