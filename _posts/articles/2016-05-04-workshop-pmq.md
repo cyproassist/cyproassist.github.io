@@ -8,7 +8,7 @@ ads: false
 share: false
 author: kenwenzel
 image:
-  teaser: /articles/teaser/workshop-ces-teaser.jpg
+  teaser: /articles/teaser/workshop-pmq-teaser.jpg
 
 ---
 Der finale **CyProAssist**-Workshop zur Anforderungsdefinition wurde heute in Bad Peterstal-Griesbach bei dem Unternehmen Peterstaler Mineralquellen GmbH (PMQ) durchgeführt.
