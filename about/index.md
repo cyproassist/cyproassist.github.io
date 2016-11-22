@@ -10,48 +10,25 @@ ads: false
 ---
 
 <pre style="font-size: inherit; font-family: inherit; white-space: pre-wrap">
-Das Fraunhofer-Institut für Werkzeugmaschinen
-und Umformtechnik IWU
-Reichenhainer Straße 88
-09126 Chemnitz, Germany
-www.iwu.fraunhofer.de
-info(at)iwu.fraunhofer.de
-Telefon +49 371 5397 0
-
-ist eine rechtlich nicht selbstständige Einrichtung der
-
-Fraunhofer-Gesellschaft 
-zur Förderung der angewandten Forschung e.V.
-Hansastraße 27 c
-80686 München
-Internet: www.fraunhofer.de
-E-Mail: info(at)zv.fraunhofer.de
+CyProAssist ist ein vom BMBF im Rahmen der Initiative 
+"Industrie 4.0 – Forschung auf den betrieblichen Hallenboden" 
+gefördertes Verbundprojekt zum Thema 
+"Fertigungsassistenzsystem unter Verwendung sozio-cyber-physischer Produktionssysteme".
 </pre>
 
-<br>
-<hr style="height:1px !important; background: #E4E4E4;">
-<br>
-<pre style="font-size: inherit; font-family: inherit; white-space: pre-wrap">
-Umsatzsteuer-Identifikationsnummer gemäß § 27 a
-Umsatzsteuergesetz: DE 129515865
-Registergericht
-Amtsgericht München
-Eingetragener Verein
-Register-Nr. VR 4461
-</pre>
-
-### Vorstand
-<pre style="font-size: inherit; font-family: inherit; white-space: pre-wrap">
-Prof. Dr.-Ing. Reimund Neugebauer, Präsident, Unternehmenspolitik, Technologiemarketing und Geschäftsmodelle
-Prof. Dr. Alexander Kurz, Personal, Recht und Verwertung
-Prof. (Univ. Stellenbosch) Dr. Alfred Gossner, Finanzen, Controlling (inkl. Betriebswirtschaft, Einkauf, Liegenschaften) und IT
-</pre>
+<hr style="height:1px !important; background: #E4E4E4; margin-top: 1em; margin-bottom: 1em">
 
 ### Verantwortlicher Redakteur
 
 <pre style="font-size: inherit; font-family: inherit; white-space: pre-wrap">
 Ken Wenzel
 ken.wenzel(at)iwu.fraunhofer.de
+
+Fraunhofer-Institut für Werkzeugmaschinen
+und Umformtechnik IWU
+Reichenhainer Straße 88
+09126 Chemnitz, Germany
+www.iwu.fraunhofer.de
 </pre>
 
 
@@ -65,29 +42,22 @@ E-Mail: info(at)interaktion.biz
 </pre>
 Webseite: <http://www.interaktion.biz/>
 
+### Rechtliche Hinweise
 
+#### Haftungsbeschränkung
 
-### Nutzungsrechte
+Die Inhalte dieser Website werden mit größtmöglicher Sorgfalt erstellt. Der Anbieter übernimmt jedoch keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Inhalte. Die Nutzung der Inhalte der Website erfolgt auf eigene Gefahr des Nutzers. Namentlich gekennzeichnete Beiträge geben die Meinung des jeweiligen Autors und nicht immer die Meinung des Anbieters wieder. Mit der reinen Nutzung der Website des Anbieters kommt keinerlei Vertragsverhältnis zwischen dem Nutzer und dem Anbieter zustande.
 
-<pre style="font-size: inherit; font-family: inherit; white-space: pre-wrap">
-Copyright © by
-Fraunhofer-Gesellschaft
+#### Externe Links
 
-Alle Rechte vorbehalten.
-Die Urheberrechte dieser Webseite liegen vollständig bei der Fraunhofer-Gesellschaft.
+Diese Website enthält Verknüpfungen zu Websites Dritter ("externe Links"). Diese Websites unterliegen der Haftung der jeweiligen Betreiber. Der Anbieter hat bei der erstmaligen Verknüpfung der externen Links die fremden Inhalte daraufhin überprüft, ob etwaige Rechtsverstöße bestehen. Zu dem Zeitpunkt waren keine Rechtsverstöße ersichtlich. Der Anbieter hat keinerlei Einfluss auf die aktuelle und zukünftige Gestaltung und auf die Inhalte der verknüpften Seiten. Das Setzen von externen Links bedeutet nicht, dass sich der Anbieter die hinter dem Verweis oder Link liegenden Inhalte zu Eigen macht. Eine ständige Kontrolle der externen Links ist für den Anbieter ohne konkrete Hinweise auf Rechtsverstöße nicht zumutbar. Bei Kenntnis von Rechtsverstößen werden jedoch derartige externe Links unverzüglich gelöscht.
 
-Ein Download oder Ausdruck dieser Veröffentlichungen ist ausschließlich für den persönlichen Gebrauch gestattet. Alle darüber hinaus gehenden Verwendungen, insbesondere die kommerzielle Nutzung und Verbreitung, sind grundsätzlich nicht gestattet und bedürfen der schriftlichen Genehmigung.
+#### Urheber- und Leistungsschutzrechte
 
-Ein Download oder Ausdruck ist darüber hinaus lediglich zum Zweck der Berichterstattung über die Fraunhofer-Gesellschaft und ihrer Institute nach Maßgabe untenstehender Nutzungsbedingungen gestattet:
+Die auf dieser Website veröffentlichten Inhalte unterliegen dem deutschen Urheber- und Leistungsschutzrecht. Jede vom deutschen Urheber- und Leistungsschutzrecht nicht zugelassene Verwertung bedarf der vorherigen schriftlichen Zustimmung des Anbieters oder jeweiligen Rechteinhabers. Dies gilt insbesondere für Vervielfältigung, Bearbeitung, Übersetzung, Einspeicherung, Verarbeitung bzw. Wiedergabe von Inhalten in Datenbanken oder anderen elektronischen Medien und Systemen. Inhalte und Rechte Dritter sind dabei als solche gekennzeichnet. Die unerlaubte Vervielfältigung oder Weitergabe einzelner Inhalte oder kompletter Seiten ist nicht gestattet und strafbar. Lediglich die Herstellung von Kopien und Downloads für den persönlichen, privaten und nicht kommerziellen Gebrauch ist erlaubt.
 
-Grafische Veränderungen an Bildmotiven - außer zum Freistellen des Hauptmotivs - sind nicht gestattet. Es ist stets die Quellenangabe und Übersendung von zwei kostenlosen Belegexemplaren an die oben genannte Adresse erforderlich. Die Verwendung ist honorarfrei.
-</pre>
+Die Darstellung dieser Website in fremden Frames ist nur mit schriftlicher Erlaubnis zulässig.
 
-### Haftungshinweis
+#### Besondere Nutzungsbedingungen
 
-Wir übernehmen keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
-
-Wir sind bemüht, das Webangebot stets aktuell und inhaltlich richtig sowie vollständig anzubieten. Dennoch ist das Auftreten von Fehlern nicht völlig auszuschließen. Das Fraunhofer-Institut bzw. die Fraunhofer-Gesellschaft übernimmt keine Haftung für die Aktualität, die inhaltliche Richtigkeit sowie für die Vollständigkeit der in ihrem Webangebot eingestellten Informationen. Dies bezieht sich auf eventuelle Schäden materieller oder ideeller Art Dritter, die durch die Nutzung dieses Webangebotes verursacht wurden.
-
-Geschützte Marken und Namen, Bilder und Texte werden auf unseren Seiten in der Regel nicht als solche kenntlich gemacht. Das Fehlen einer solchen Kennzeichnung bedeutet jedoch nicht, dass es sich um einen freien Namen, ein freies Bild oder einen freien Text im Sinne des Markenzeichenrechts handelt.
-
+Soweit besondere Bedingungen für einzelne Nutzungen dieser Website von den vorgenannten Paragraphen abweichen, wird an entsprechender Stelle ausdrücklich darauf hingewiesen. In diesem Falle gelten im jeweiligen Einzelfall die besonderen Nutzungsbedingungen.
