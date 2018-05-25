@@ -5,11 +5,11 @@ html, body{
     height: 100% ;
 
 }
-   
+
 *{
 	margin: 0;
 }
-   
+
 /*
    Masthead
    ========================================================================== */
@@ -53,10 +53,9 @@ html, body{
    ========================================================================== */
 
 .menu {
-			
 	li {
 		float: left;
-					
+
 		&:last-child a {
 			@include media($medium) {
 				margin-right: 0; // remove spacing from last menu link
@@ -64,13 +63,13 @@ html, body{
 		}
 		a {
 			position: relative;
-			display: block;	
+			display: block;
 			font-family: $alt-font;
 			line-height: 20px;
 
 			&:hover	{
-				color:$white;		
-				background:$link-color;				
+				color:$white;
+				background:$link-color;
 			}
 
 			&.active {
@@ -87,7 +86,7 @@ html, body{
 .top-menu {
 	display: none;
 	position: relative;
-	
+
 	@include media($medium) {
 		@include span-columns(12);
 	}
@@ -103,7 +102,7 @@ html, body{
 		display: none;
 	}
 	li {
-				
+
 		a {
 			color: $darkgrey;
 			@include font-size(18,no);
@@ -116,12 +115,12 @@ html, body{
 
 			&:hover	{
 				color:$white;
-				background: $link-color2;				
+				background: $link-color2;
 			}
 
 			&.active {
 				color:$white;
-				background: $link-color3;	
+				background: $link-color3;
 			}
 
 		}
@@ -131,26 +130,30 @@ html, body{
 /* Bottom menu navigation in Footer */
 .bottom-menu {
 	position: relative !important;
-	height: $bottom_menu_height; 
+	height: $bottom_menu_height;
 	//@include clearfix;
 	text-align:center;
 	font-weight: 700;
 	@include outer-container;
 	padding:$space;
-		
-	ul{
+
+  p {
+    color: $white;
+    margin-top: $space;
+    margin-bottom: 0 !important;
+    border-bottom: solid 1px #555;/*#bf9571		*/
+    font-size: 20px ;
+    text-align: left;
+  }
+
+	ul {
 		//position: fixed; /* or absolute */
 		margin-left: $space ;
-		
-		
-		p{
-			color: $white;
-			margin-top: $space;
-			margin-bottom: 0 !important;
-			border-bottom: solid 1px #555;/*#bf9571		*/
-			font-size: 20px ;
-		}
-	
+
+    li {
+      margin-right: 10px;
+    }
+
 		a {
 			//color: lighten($link-color ,60);
 			color: $white;
@@ -160,16 +163,16 @@ html, body{
 			font-weight: 500;
 
 			&:hover	{
-				color:$link-color2 !important;	
-				background: transparent;					
+				color:$link-color2 !important;
+				background: transparent;
 			}
 
 			&.active {
 				//color:$white;
-				//background:$link-color3;	
+				//background:$link-color3;
 			}
 
-		
+
 		}
 	}
 }
@@ -182,11 +185,11 @@ html, body{
 #page-wrapper {
 	position:relative;
 	//display : table;
-	
-		
+
+
 	//padding: 0 $gutter; // add white space for smaller screens
 	@include size(100% 100%);
-	
+
 	-webkit-overflow-scrolling: touch;
 	//z-index: 2;
 	@include transform(translate(0,0));
@@ -202,9 +205,9 @@ html, body{
 
 #main {
 		min-height: 100%;
-		height: auto !important; 
+		height: auto !important;
 		background: #edefef;
-	
+
 		//margin-bottom: -$site_footer_height ;
 		//@include outer-container;
 		//padding-left: 3% ;
@@ -218,7 +221,7 @@ html, body{
 	  background: #fff;
 	  -webkit-box-shadow: 1px 2px 1px 0 rgba(0,0,0,.13);
 	  box-shadow: 1px 2px 1px 0 rgba(0,0,0,.13);
-  
+
 		@include media($medium) {
 			@include span-columns(12);
 		}
@@ -226,15 +229,15 @@ html, body{
 	.page-title {
 		@include fill-parent;
         padding-top: $space; // add white space for smaller screens
-		
-			
+
+
 	}
 	@at-root {
 		.page-content {
-		
+
 			margin-bottom: 2em;
             padding: $space; // add white space for smaller screens
-			
+
 			@include fill-parent;
 			// larger font for intro paragraph
 			> p {
@@ -243,19 +246,19 @@ html, body{
 				}
 			}
 			// cleaner underlines for links
-			
+
 			a {
-			text-decoration: none; 
+			text-decoration: none;
 			}
 			p a,
 			li a {
 				border-bottom: 1px dotted lighten($link-color, 50);
-				
+
 				&:hover {
 					border-bottom-style: solid;
 				}
 			}
-			
+
 			p > a.reversefootnote {
 				border-bottom-width: 0;
 			}
@@ -276,12 +279,12 @@ html, body{
 		}
 	}
 	@at-root {
-	
+
 	.archive-wrap {
-		
+
 		@include fill-parent;
 			.page-content {
-			
+
 				@include reset-all;
 				@include fill-parent;
 			}
@@ -315,16 +318,16 @@ html, body{
 			border-width: 0;
 		}
 	}
-	
-	
+
+
 	h5{
-		margin-top:1.5em; 
-		margin-bottom:1.5em; 
-		margin-left:0.5em; 
+		margin-top:1.5em;
+		margin-bottom:1.5em;
+		margin-left:0.5em;
 		font-weight:300;
 		border-bottom: 1px solid #ddd;
 		font-size:20px;
-		
+
 	}
 }
 
@@ -332,7 +335,7 @@ html, body{
 
 
 
-/* 
+/*
    Page lead
    ========================================================================== */
 .page-lead {
@@ -350,8 +353,8 @@ html, body{
 	//background: rgba(255, 255, 255, 0.7) none repeat scroll 0% 0%;
 	height: $page_lead_height !important;
 	margin: 0 auto;
-	
-	
+
+
 	@include media($micro) {
 		padding: 2.5em 1em 1em 1em;
 	}
@@ -359,7 +362,7 @@ html, body{
 	@include media($short) {
 		padding: 2.5em 1em 1em 1em;
 	}
-	
+
 	@include media($small) {
 		padding: 3.5em 1em 1em 1em;
 	}
@@ -370,7 +373,7 @@ html, body{
 	@include media($large) {
 		padding: 3.5em 1.5em 1.5em 1.5em;
 	}
-	
+
 	h1 {
 		color: $white;
 		background: $page-head-color;
@@ -381,7 +384,7 @@ html, body{
 		margin-right: 1em;
 		margin-left:0 !important;
 		margin-bottom: $space !important;
-	
+
 
 
 		@include media($medium) {
@@ -399,7 +402,7 @@ html, body{
 		@include font-size(20);
 		font-weight: 600;
 
-			
+
 		@include media($medium) {
 			@include font-size(20);
 		}
@@ -422,20 +425,20 @@ html, body{
 		margin-bottom: $space;
 	}
 
-	
+
 	.page-image {
 		position:relative;
 		float:left;
-		max-width: 100% !important;	
+		max-width: 100% !important;
 		margin-bottom: 30px;
-		
+
 		padding:$space;
 		//background-color: rgba($black,.5);
 		font-family: $alt-font;
 		text-align: right;
 		@include font-size(14,no);
 		color: $darkgrey;
-		
+
 		@include media($medium) {
 			margin-left: $space;
 			width:47%;
@@ -444,22 +447,22 @@ html, body{
 			margin-left: $space;
 			width:47%;
 		}
-		
-		a{ 
+
+		a{
 				color: $darkgrey;
 				text-decoration: none;
-				
+
 				&:hover	{
-					color:$link-color2 !important;	
-					background: transparent;					
+					color:$link-color2 !important;
+					background: transparent;
 				}
 
 				&.active {
 					//color:$white;
-					//background: $link-color3;	
-				}		
+					//background: $link-color3;
+				}
 		}
-	
+
 
 	}
 /*
@@ -468,8 +471,8 @@ html, body{
 
 .page-author {
 	position: relative;
-	
-	
+
+
 	.page-meta {
 		p{
 			padding-left:$pad;
@@ -499,7 +502,7 @@ html, body{
 
 .author-content {
 	padding-left:$pad;
-	word-wrap: break-word;	
+	word-wrap: break-word;
 }
 .author-name {
 	@include font-size(16,no);
@@ -527,11 +530,11 @@ html, body{
 	margin-top: 0px;
 	//position: absolute;
 	//bottom: 0;
-	
+
 	border-top: 2px solid $grey; /* #bf9571;*/
 	font-family: $alt-font;
 	background: #444; /*a68162;*/
-	
+
 		@include media($micro) {
 			margin-top: -$site_footer_height2;
 				margin-top:0px;
@@ -540,18 +543,18 @@ html, body{
 			margin-top: -$site_footer_height2;
 				margin-top:0px;
 		}
-		
-		
+
+
 	}
-	
-	
+
+
 	  /* Copyright text */
 	.copyright {
-		background: #222; /* #8f6a4c; */ 
+		background: #222; /* #8f6a4c; */
 		border-top: 1px solid #444; /*##bf9571;*/
-		text-align: center !important; 
+		text-align: center !important;
 		width: 100% ;
-		position: relative; 
+		position: relative;
 		//left: 45%;
 		margin: 0 0 0 0 !important;
 		padding: $space !important;
@@ -559,25 +562,25 @@ html, body{
 		@include font-size(12);
 		color: $white ;
 
-		
+
 		a {
 			color: $white;
 			text-decoration: none;
-			
+
 			&:hover	{
-				color:$link-color2 !important;	
-				background: transparent;					
+				color:$link-color2 !important;
+				background: transparent;
 			}
 
 			&.active {
 				//color:$white;
-				//background: $link-color3;	
+				//background: $link-color3;
 			}
 
-		
+
 		}
 	}
-	
+
 
 
 #inner-footer{
@@ -585,30 +588,30 @@ html, body{
 	padding: $space;
 	background: #444; /*a68162;*/
 	li {
-	
+
 	//links
 	a {
 			color: $white;
 			text-decoration: none;
-			
+
 			&:hover	{
-				color:$link-color2;	
-				background: transparent;					
+				color:$link-color2;
+				background: transparent;
 			}
 
 			&.active {
 				//color:$white;
-				//background: $link-color3;	
+				//background: $link-color3;
 			}
 
-		
+
 		}
-		
+
 	}
 	.footer_img img{
 		margin: $space !important;
-		
+
 		//height: 120px;
 	}
-	
+
 }
