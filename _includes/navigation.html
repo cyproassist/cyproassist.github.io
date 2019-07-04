@@ -4,7 +4,7 @@
     {% if link.url contains 'http' %}
         {% assign domain = '' %}
     {% else %}
-        {% assign domain = site.url %}
+        {% assign domain = site.url | replace: 'http://', '//' %}
     {% endif %}
     {% capture itemurl %}{{ domain }}{{ link.url | remove_first: "index.html" }}{% endcapture %}
     {% capture pageurl %}{{ page.url | remove_first: "index.html" }}{% endcapture %}

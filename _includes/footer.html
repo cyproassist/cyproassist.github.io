@@ -6,7 +6,7 @@
       {% if link.url contains 'http' %}
         {% assign domain = '' %}
         {% else %}
-        {% assign domain = site.url %}
+        {% assign domain = site.url | replace: 'http://', '//' %}
       {% endif %}
 			<li style="padding:0">
 				<a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a>
@@ -16,10 +16,10 @@
 	</nav><!-- /.bottom-menu -->
 	<div role="contentinfo" id="inner-footer">
 		<div class="footer_img" style="">
-		  <img src="{{ site.url }}/images/BMBF_gefoerdert.png" style="height: 120px">
-			<img src="{{ site.url }}/images/PTKA_betreut.png" style="height: 120px">
+		  <img src="{{ site.url | replace: 'http://', '//' }}/images/BMBF_gefoerdert.png" style="height: 120px">
+			<img src="{{ site.url | replace: 'http://', '//' }}/images/PTKA_betreut.png" style="height: 120px">
 		</div>
 
 	</div><!-- /inner-footer -->
-	<div class="copyright" style="">&#169; {{ site.time | date: '%Y' }} <a href="{{ site.url }}/">{{ site.title }}</a></div>
+	<div class="copyright" style="">&#169; {{ site.time | date: '%Y' }} <a href="{{ site.url | replace: 'http://', '//' }}/">{{ site.title }}</a></div>
 </footer>
